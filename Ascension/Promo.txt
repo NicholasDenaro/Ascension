@@ -1,0 +1,25 @@
+Big Bad Bunny	Monster		8	5	1	Promo	FATE: Place a card from the center deck facedown under this and each other card in the center row. Whenever a player acquires or defeats a card on top of a facedown card, they acquire or defeat the facedown card without paying its cost.  Reward: Gain (5 Honor). Acquire or defeat all facedown cards in the center row.
+Shuffletron 2K13	Mechana	Construct	2	2	1	Promo	Once per turn, when you play a Mechana Construct (inlcuding this one), you may shuffle your discard pile into your deck. Whenever you would shuffle your deck, you may have an opponent shuffle your deck instead.
+Mudfin Angler	Monster		6	5	1	Promo	Gain (5 Honor). Choose an opponent and name a card. The chosen opponent reveals their hand and you put any of the named card into your hand.
+Cobra the Sordid	Void	Hero	7	3	1	Promo	Gain (3 Power).  The next time you defeat a Monster this turn, you may take its (Honor) reward from the player with the most (Honor) instead of from the (Honor) pool. Choose one in case of a tie.
+Kythis, the Gatekeeper	Monster		7	5	1	Promo	FATE: When this enters the center row, take the top card of the center deck and place it face down underneat this.  If this leaves the center row, replace it with that card.  Reward: Gain (5 Honor) and acquire or defeat the card underneath without paying its cost.
+Raving Prophet	Enlightened	Hero	3	1	1	Promo	Draw a card.  Name a card, then reveal the top card of the center deck. If that card is the named card, you may acquire or defeat it without paying its cost.
+Arha Sanctuary	Enlightened	Construct	3	2	1	Promo	When this enters play, put the top card of your deck under this face up. Once per turn, you may swap a card in your hand for the card under Arha Sanctuary.  When Arha Sanctuary leaves play or the game ends, put the card under it into your discard pile.
+Deep Drone	Mechana	Hero	4	2	2	Promo	Gain (2 Rune). Put the next Construct you acquire this turn directly into play.
+Pathwarden	Lifebound	Construct	6	3	2	Promo	Gain (2 Rune). You may spend (Rune) as though it was (Power) this turn.
+Ender of Days	Monster		10	10	1	Promo	Reward: Gain (10 Honor). Remove all (Honor) from the (Honor) pool.
+Journeyman Sage	Enlightened	Hero	4	2	1	Promo	FATE: When this enters the center row, each player may banish a hero in their hand to acquire a Mystic or Heavy Infantry and add it to their hand. Banish a Hero in your hand. If you do, acquire a Hero with Honor value up to one more than that of the banished card and put it in your hand.
+Vortex	Monster		6	4	1	Promo	Reward: Gain (4 Honor). Flip this onto the center row from a height of at least one foot. Once it lands, choose a card it touches. You may acquire or defeat that card.
+Assimilation Plant	Mechana	Construct	9	9	1	Promo	Your Mechana Heroes are Constructs instead. You may use their abilities once per turn.  If this leaves play, put all of your Mechana Heroes in play into your discard pile.
+Vedah, Sage of Swords	Enlightened	Hero	7	4	1	Promo	Reveal the top card of the center deck. Draw it or defeat it without paying its cost.
+Constricting Horror	Monster		5	4	1	Promo	Reward: Gain (4 Honor).  Reveal cards from the center deck until you reveal a Hero.  Acquire that Hero without paying its cost and banish each other card revealed this way.
+Hedron Flare	Mechana	Construct	6	6	1	Promo	Once per turn, you may acquire a Mechana Hero in the center row without paying its cost.
+Soul Collector	Void	Construct	6	4	1	Promo	Once per turn, add a Soul counter to this if you've defeated a Monster in the center row.  Once per turn, gain (Power) equal to the number of Soul counters on this.
+Ring of Life	Lifebound	Construct	4	2	1	Promo	Once per turn, if you have played a Lifebound Hero, gain (1 Rune).  When Ring of Life enters play, choose a faction. Your Heroes of that faction are also Lifebound Heroes.
+Control Room	Mechana	Construct	5	5	1	Promo	Once per turn, you may put a Mechana Construct you control on top of the center deck. If you do, acquire a Mechana Construct in the center row and put it in your hand.
+Cetra, Guide of Ogo	Lifebound	Hero	8	4	1	Promo	Acquire all Heroes in the center row without paying their costs. Put them on top of your deck in any order.
+Moon Staff	Lifebound	Construct	4	2	1	Promo	Once per turn, you may spend (4 Runes) to double your (Power).
+Nethersnare	Void	Construct	3	2	1	Promo	Once per turn, if there is no Monster under this, you may put a Monster from the center row under it. You may defeat Monsters under this as though they were in the center row. If this leaves play, put any Monster under this on top of the center deck.
+Void Mesmer	Void	Hero	6	3	2	Promo	Gain (2 Power). The next time you defeat a Monster this turn, you may acquire a Hero of equal or lesser cost without paying its cost.
+Askara of Fortune	Enlightened	Hero	3	1	1	Promo	Each player reveals the top card of their deck. Choose a Hero revealed this way and copy its effect.
+Lotus Siren	Lifebound	Hero	4	2	1	Promo	Gain (2 Runes).  Whenever you acquire a Hero or Treasure card, gain (1 Honor). (Gain (Honor) for each card acquired.)

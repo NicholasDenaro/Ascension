@@ -1,0 +1,2 @@
+Giant Rat	Monster		1	1	5	RKTP	Any card underneath Giant Rat cannot be acquired, banished, or defeated until Giant Rat is banished or defeated. Reward: Gain (1 Honor). (Do not shuffle these into the center deck. At the beginning of the game put these off to the side in the "Rat Nest" zone.)
+Rat King	Monster		6	4	2	RKTP	FATE: When this enters the center row, put a Giant Rat on every other card in the center row.  Reward: Gain (4 Honor) and defeat all the Gaint Rats in the center row.

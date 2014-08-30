@@ -1,0 +1,56 @@
+Avatar Golem		Soul Gem	0	0	2	IH	Gain (2 Power). Gain (1 Honor) for each faction among Constructs you control. (Factions are Enlightened, Mechana, Lifebound, and Void.) (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Druids of the Stone Circle		Soul Gem	0	0	2	IH	Acquire a Hero with cost (3 Rune) or less without paying its cost. Place it on top of your deck. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Astrolabe TRX	Mechana	Construct	5	5	2	IH	Once per turn, when you play a Mechana Construct (including this one), gain (1 Honor).
+Kythis, Rebel Godling	Monster		8	8	1	IH	Reward: (8 Honor).  Ongoing Trophy:  Once per turn, gain a Soul Gem.
+Nothing Man	Monster	Trophy	4	3	3	IH	Reward: (3 Honor).  Trophy: Banish this to gain a Soul Gem.
+Moment of Clarity	Enlightened	Event	0	0	0	IH	When a player acquires an Enlightened card, that player may draw a card.  Event Trophy:  Banish a card in your hand.  If you do, acquire a Mystic without paying its cost. Put it into your hand.
+Dimension Diver		Soul Gem	0	0	2	IH	Gain (2 Rune). You may treat all constructs as Mechana Constructs this turn. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Landtalker		Soul Gem	0	0	1	IH	Gain (3 Rune). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Aaron the Godslayer	Enlightened	Hero	7	4	1	IH	Defeat a Monster without paying its cost.
+Elan, Soul Marshal	Enlightened	Hero	6	3	1	IH	Gain a Soul Gem. Draw a card.
+Stone Circle Elder	Lifebound	Hero	5	3	2	IH	Acquire a Hero with cost (5 Runes) or less without paying its cost. Put it on top of your deck. If the current Event is Lifebound, draw a card.
+Trophy Hunter	Void	Hero	3	1	3	IH	Gain (2 Power).  You pay (1 Power) less the next time you defeat a Trophy Monster this turn.
+Growmites	Monster	Trophy	3	2	5	IH	Reward: (2 Honor).  Ongoing Trophy: When you defeat another Growmites, gain (2 honor).
+Beast Staff	Lifebound	Construct	4	2	2	IH	Gain (1 Power).  Once per turn, you may pay (1 rune) to reveal the top card of your deck. Gain (honor) equal to its (honor) value.
+Lifebound Initiate		Soul Gem	0	0	2	IH	Gain (1 Rune) and (1 Honor). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Arbiter of Fate		Soul Gem	0	0	2	IH	FATE: When this enters the center row, each player may banish a card from their hand or discard pile.  Draw a card. You may banish a card in your hand or discard pile. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Belthar, Soul Collector	Void	Hero	6	3	1	IH	Gain (3 Power).  The next time you defeat a Monster in the center row this turn, gain (3 Runes).
+The Great Eclipse	Lifebound	Event	0	0	0	IH	When a player acquires a Lifebound card, that player may put it on top of his deck.  Event Trophy: Name a Hero.  That Hero is also Lifebound this turn.
+Master Dhartha		Soul Gem	0	0	1	IH	Draw three cards. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Spike Vixen		Soul Gem	0	0	2	IH	Gain (1 Power). Draw a card. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Soul Shaper	Void	Hero	2	1	2	IH	You may banish this or another card in your hand.  If you do, gain a Soul Gem.  If the current Event is Void, you may banish a card in your discard pile to gain a Soul Gem instead.
+Great-Omen Raven		Soul Gem	0	0	2	IH	Name a card. Reaveal the top card of your deck and put it into your hand. If it is the named card, gain (3 Honor). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Spider Witch	Lifebound	Hero	3	2	3	IH	Gain (2 Honor).   Unite:  Gain a Soul Gem. (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+Wolf Acolyte	Lifebound	Hero	1	1	3	IH	Gain (1 Rune). Unite: Draw a card
+Seer of the Forked Path		Soul Gem	0	0	2	IH	Draw a card. You may banish a card in the center row. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+The World Tree	Lifebound	Construct	7	4	1	IH	Once per turn, you may pay up to (5 Runes) to gain that much (Honor).  When you play a Lifebound Hero, gain (1 Rune).
+Akam, the Genie	Monster		7	3	1	IH	Reward: (3 Honor).  Ongoing Trophy: Put three Wish counters on Akam.  Once per turn, you may remove a Wish counter to gain (2 runes) or (2 power).  When Akam has no Wish counters, banish it.
+Cackling Jackal	Monster	Trophy	3	2	3	IH	Reward: (2 Honor).  Trophy: Banish this to gain (1 Rune).
+Ascetic of the Lidless Eye		Soul Gem	0	0	2	IH	Draw two cards. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Mechana Initiate		Soul Gem	0	0	2	IH	Gain (1 Rune) or (1 Power). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Wandering Askara	Enlightened	Hero	3	1	3	IH	Draw a card, then you may banish a card in the center row.  If you have played another Wandering Askara this turn, you may banish both cards to take another turn after this one.
+Energy Monk	Mechana	Hero	4	2	1	IH	Gain (2 Power).  You may return a Construct you control to your hand.
+Askara of Souls	Enlightened	Hero	4	2	2	IH	Gain a Soul Gem.
+Hedron Pyromaniac	Mechana	Hero	4	3	2	IH	Gain (2 Runes).  You may destroy a Construct you control to gain a Soul Gem.
+Spark Sprayer	Mechana	Construct	4	4	2	IH	Once per turn, you may destroy a Mechana Construct you control to gain (1 Power).  If the current event is Mechana, gain an additional (1 Power).
+Wolf Shaman		Soul Gem	0	0	2	IH	Gain (1 Rune). Draw a card. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Recyclicrab	Mechana	Construct	3	3	2	IH	While this is in your discard pile, when you play a Mechana Construct, you may return this from your discard pile to your hand.
+Repurposer	Mechana	Construct	7	7	1	IH	Once per turn, when you play a Mechana Construct (including this one), you may return a Construct from your discard pile to your hand.
+Runic Lycanthrope		Soul Gem	0	0	2	IH	Gain (2 Rune). If you have played another Lifebound Hero this turn, gain (2 Power). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Temple Guardian	Enlightened	Hero	5	4	2	IH	Defeat a Monster with (5 power) or less without paying its cost. If the current event is Enlightened, draw a card.
+Arha Medium	Enlightened	Hero	2	1	3	IH	You may banish this to acquire a Mystic or Heavy Infantry without paying its cost. Put it into your hand.
+Void Initiate		Soul Gem	0	0	2	IH	Gain (1 Rune). You may banish a card in your hand or discard pile. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Void Avenger	Void	Hero	5	3	2	IH	Gain (3 Power).  The next time you defeat a Monster in the center row this turn, gain a Soul Gem.
+Orb of Nyx	Void	Construct	8	5	1	IH	Once per turn, gain (3 Power).  When you defeat a Monster in the center row, gain a Soul Gem.
+Reactor Monk		Soul Gem	0	0	2	IH	Gain (2 Rune). You pay (1 Rune) less the next time you acquire a Construct this turn. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Shade of the Black Watch		Soul Gem	0	0	2	IH	Gain (2 Power). You may banish a card in your hand or discard pile. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Arha Initiate		Soul Gem	0	0	2	IH	Draw a card. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Acidic Crawler	Monster		6	5	3	IH	Reward: (5 Honor). If an opponent controls the most Constructs, destroy all Constructs that player controls. (If multiple opponents are tied for the most Constructs, they all destroy them. If you control the most, do nothing).
+Arha Templar		Soul Gem	0	0	2	IH	Defeat a Monster that has (4 power) or less without paying its cost. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Cosmic Protocol	Mechana	Event	0	0	0	IH	When a player acquires a Mechana Construct, that player may put it directly into play.  Event Trophy: You pay (2 Runes) less to acquire your next Mechana Construct this turn.
+Demon Slayer		Soul Gem	0	0	2	IH	Gain (3 Power). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+Driller Mark IV	Mechana	Construct	6	6	2	IH	Once per turn, when you play a Mechana Construct (including this one), gain a Soul Gem.
+Sabre, the Moonlit	Lifebound	Hero	6	3	1	IH	Gain (1 Rune). Gain (1 Honor). Gain (1 Power).  Draw a card.  Unite: Gain (1 Rune). Gain (1 Honor), Gain (1 Power).  Draw a card.
+Souls Unbound	Monster	Event	0	0	0	IH	Monsters in the center row are Unbanishable.  Event Trophy: Discard a card.  If you do, gain a Soul Gem.
+Annihilation	Void	Event	0	0	0	IH	When a player acquires a Void card, that player may banish a card in his hand or discard pile.  Event Trophy: Gain (1 Power).
+Deathsworn Warrior	Void	Hero	1	1	3	IH	FATE: Each player may banish a card from their hand or discard pile.  Gain (1 Power).  You may banish a card in your hand or discard pile.  Then, you may banish this to banish a second card in your hand or discard pile.

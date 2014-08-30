@@ -1,0 +1,2 @@
+Zombie Militia			0	0	0	KSSD	(+1 Power).
+Zombie Apprentice			0	0	0	KSSD	(+1 Rune).

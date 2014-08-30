@@ -1,0 +1,1 @@
+Rat Queen	Monster		6	4	2	RQTP	FATE: When this enters the center row shuffle all other cards not named Giant Rat in the center row and return them face down.  Place a Giant Rat on each.  When a Giant Rat leaves the center row, turn the card underneath it face-up.  .  Reward: Gain (4 Honor) and defeat all Giant Rats in the center row.

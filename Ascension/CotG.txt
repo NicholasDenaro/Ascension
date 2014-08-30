@@ -1,0 +1,48 @@
+Avatar of the Fallen	Monster		7	4	1	CotG	Unbanishable. Reward: Gain (4 Honor). You may acquire or defeat any card in the center row without paying its cost.
+Emri, One with the Void	Void	Hero	6	3	1	CotG	Gain (4 Power).
+Snapdragon	Lifebound	Construct	5	2	2	CotG	Once per turn, gain (1 Rune). The First time you play a Lifebound Hero each turn, gain (1 Honor).
+Mistake of Creation	Monster		4	4	4	CotG	Reward: Gain (4 Honor). You may banish a card in the center row andor a card in your discard pile.
+Spike Vixen	Void	Hero	2	1	2	CotG	Gain (1 Power). Draw a card.
+Void Initiate	Void	Hero	1	1	3	CotG	Gain (1 Rune). You may banish a card in your hand or discard pile.
+Kor, the Ferromancer	Mechana	Hero	3	2	1	CotG	Gain (2 Power). Draw a card if you control 2 or more Constructs.
+Burrower Mark II	Mechana	Construct	3	3	2	CotG	Once per turn, when you put a Mechana Construct into play (including this one), draw a card.
+Flytrap Witch	Lifebound	Hero	5	2	2	CotG	Gain (2 Honor). Draw a card.
+Lifebound Initiate	Lifebound	Hero	1	1	3	CotG	Gain (1 Rune) and (1 Honor).
+Hedron Link Device	Mechana	Construct	7	7	1	CotG	You may treat all Constructs as Mechana Constructs.
+Arbiter of the Precipice	Void	Hero	4	1	2	CotG	Draw two cards. Banish a card in your hand.
+Tormented Soul	Monster		3	1	3	CotG	Reward: Gain (1 Honor). Draw a card.
+Yggdrasil Staff	Lifebound	Construct	4	2	2	CotG	Once per turn, gain (1 Power). Once per turn, you may spend (4 Rune) to gain (3 Honor).
+Mephit	Monster		3	2	3	CotG	Reward: Gain (2 Honor). You may banish a card in the center row.
+Seer of the Forked Path	Enlightened	Hero	2	1	3	CotG	Draw a card. You may banish a card in the center row.
+Samael's Trickster	Monster		3	1	4	CotG	Reward: Gain (1 Honor) and (1 Rune).
+Wolf Shaman	Lifebound	Hero	3	1	3	CotG	Gain (1 Rune). Draw a card.
+Sea Tyrant	Monster		5	5	3	CotG	Reward: Gain (5 Honor). If an opponent has more than one Construct, that player must destroy all but one Construct he controls.
+Earth Tyrant	Monster		6	5	2	CotG	Reward: Gain (5 Honor). Draw two cards.
+Shadow Star	Void	Construct	3	2	2	CotG	Once per turn, gain (1 Power).
+Twofold Askara	Enlightened	Hero	4	2	1	CotG	Copy the effect of a Hero played this turn.
+Druids of the Stone Circle	Lifebound	Hero	4	3	2	CotG	Acquire a Hero with cost (3 Rune) or less without paying its cost. Place it on top of your deck.
+The Grand Design	Mechana	Construct	6	6	2	CotG	Once per turn, gain (2 Rune). You may spend it only to acquire Mechana Constructs.
+Watchmaker's Altar	Mechana	Construct	5	5	2	CotG	Once per turn, gain (1 Rune). You may spend it only to acquire Mechana Constructs.
+Arha Initiate	Enlightened	Hero	1	1	3	CotG	Draw a card.
+Arha Templar	Enlightened	Hero	4	3	2	CotG	Defeat a Monster that has (4 power) or less without paying its cost.
+Avatar Golem	Mechana	Hero	4	2	2	CotG	Gain (2 Power). Gain (1 Honor) for each faction among Constructs you control. (Factions are Enlightened, Mechana, Lifebound, and Void.)
+Hedron Cannon	Mechana	Construct	8	8	1	CotG	Once per turn, gain (1 Power) for each Mechana Construct you control.
+Voidthirster	Void	Construct	5	3	2	CotG	Once per turn, gain (1 Rune). The first time you defeat a Monster in the center row each turn, gain (1 Honor).
+Wind Tyrant	Monster		5	3	3	CotG	Reward: Gain (3 honor) and (3 Rune).
+Master Dhartha	Enlightened	Hero	7	3	1	CotG	Draw three cards.
+Tablet of Time's Dawn	Enlightened	Construct	5	2	1	CotG	You may banish this Construct to take an additional turn after this one.
+Landtalker	Lifebound	Hero	6	3	1	CotG	Gain (3 Rune).
+Shade of the Black Watch	Void	Hero	3	1	3	CotG	Gain (2 Power). You may banish a card in your hand or discard pile.
+Xeron, Duke of Lies	Monster		6	3	1	CotG	Reward: Gain (3 Honor). Take a card at random from each opponent's hand and add that card to your hand.
+Temple Librarian	Enlightened	Hero	2	1	3	CotG	Discard a card. If you do, draw two cards.
+Demon Slayer	Void	Hero	4	2	2	CotG	Gain (3 Power).
+Reactor Monk	Mechana	Hero	4	2	2	CotG	Gain (2 Rune). You pay (1 Rune) less the next time you acquire a Construct this turn.
+Mechana Initiate	Mechana	Hero	1	1	3	CotG	Gain (1 Rune) or (1 Power).
+The All-Seeing Eye	Enlightened	Construct	6	2	1	CotG	Once per turn, you may draw a card.
+Cetra, Weaver of Stars	Lifebound	Hero	7	4	1	CotG	Acquire a Hero without paying  its cost. Place it on top of your deck.
+Oziah the Peerless	Enlightened	Hero	6	3	1	CotG	Defeat a Monster that has (6 power) or less without paying its cost.
+Rocket Courier X-99	Mechana	Construct	4	4	2	CotG	Once per turn, when you acquire another Mechana Construct, you may put it directly into play.
+Ascetic of the Lidless Eye	Enlightened	Hero	5	2	2	CotG	Draw two cards.
+Corrosive Widow	Monster		4	3	4	CotG	Reward: Gain (3 Honor). Each opponent must destroy a Construct he controls.
+Muramasa	Void	Construct	7	4	1	CotG	Once per turn, Gain (3 Power).
+Runic Lycanthrope	Lifebound	Hero	3	1	2	CotG	Gain (2 Rune). If you have played another Lifebound Hero this turn, gain (2 Power).

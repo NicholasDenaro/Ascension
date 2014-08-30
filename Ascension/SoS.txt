@@ -1,0 +1,53 @@
+Raj, Psionic Master	Enlightened	Hero	6	3	1	SoS	Banish a Hero in your hand. If you do, acquire a Hero with (Honor) up to two more than that of the banished card and put it into your hand. (Cards with no Honor value are considered to be worth (0 Honor).)
+Brazer Drone	Mechana	Hero	2	1	2	SoS	Gain (1 Rune). You may return a Construct from your discard pile to your hand.
+Nemesis	Monster		8	6	1	SoS	FATE: When this enters the center row, banish the current event.  Reward: Gain (6 Honor). Choose up to three Trophy Monsters from the Void and put them into play under your control.
+Soul Assassin	Void	Hero	4	2	2	SoS	Gain (2 Power). The next time you defeat a Monster in the center row this turn, gain (2 Rune).
+Penumbral Edge	Void	Construct	6	3	1	SoS	Once per turn, gain (2 Power). Gain an additional (2 Power) if you control Umbral Edge.
+Nook Hound	Enlightened	Hero	2	1	3	SoS	FATE: When this enters the center row, each player may look at the top card of their deck. They may put it into their discard pile.  Look at the top card of your deck. You may put it into your discard pile. Draw a card.
+Prodigal	Enlightened	Hero	1	1	3	SoS	Defeat a Monster with (Power) or less. (You do not have to pay (Power).)
+Syril, Runic Alpha	Lifebound	Hero	6	2	1	SoS	Gain (3 Rune). Unite: Gain (3 Power). (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+Void Rising	Void	Event	0	0	0	SoS	Once per turn, when a player defeats a Monster in the center row, that player gains (1 Honor).  Event Trophy: Banish a card in your hand or discard pile.
+Unchained Fates	Monster	Trophy	7	5	1	SoS	Reward: Gain (5 Honor).  Trophy: You may banish this to draw two cards.
+Lionheart	Lifebound	Hero	5	3	2	SoS	Gain (3 Honor). Unite: Draw a card. (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+Minotaur	Monster	Trophy	4	3	4	SoS	Reward: Gain (3 Honor).  Trophy: You may banish this to draw a card.
+Arha Rising	Enlightened	Event	0	0	0	SoS	Once during their turn, when a player discards any number of cards, they may return one of them to their hand.  Event Trophy: Draw a card.
+Autobuilder 5.0	Mechana	Construct	5	5	2	SoS	You may destroy this to pay (2 Rune) less the next time you acquire a Mechana Construct this turn.
+Cog Maw	Mechana	Construct	6	6	2	SoS	Once per turn, you may destroy a Mechana Construct you control to gain (1 Rune). If the current event is Mechana, gain an additional (1 Rune).
+Dream Machine	Mechana	Construct	7	7	1	SoS	FATE: When this enters the center row, each player may return a construct they control to their hand.  Once per turn, you may return another Mechana Construct you control to your hand.
+Fanatic	Monster	Trophy	3	1	6	SoS	Reward: Gain (1 Honor).  Trophy: You may banish this to gain the current Event Trophy effect. A player may have no more than one Fanatic Trophy in play at a time.
+Void Militia	Void	Hero	1	1	3	SoS	Gain (1 Power). You may pay (1 Power) less the next time you defeat a Monster in the center row this turn.
+Ogo Rising	Lifebound	Event	0	0	0	SoS	The first Hero played each turn is also a Lifebound hero.  Event Trophy: Gain (1 Rune).
+Weapon 303V	Mechana	Construct	8	8	1	SoS	Once per turn, when you play a Mechana Construct (including this one), gain (3 Power).
+Synchronizer	Mechana	Construct	3	3	2	SoS	once per turn, when you play a Mechana Construct (including this one), gain (1 Rune).
+Scrap Flinger	Mechana	Hero	4	2	2	SoS	Gain (2 Power). You may destroy a Construct you control. If you do, gain an additional (2 Power).
+Tower Askara	Enlightened	Hero	5	2	2	SoS	Draw three cards, then discard two cards or one Enlightened card.
+Vandal Soul	Monster		4	3	3	SoS	Reward: Gain (3 Honor). Each opponent destroys the lowest cost Construct they control.
+Eye of Destiny	Enlightened	Construct	7	3	1	SoS	Once per turn, when you acquire a Hero, you may put it into your hand.
+Snake Shaman	Lifebound	Hero	2	1	2	SoS	Gain (1 Rune). If the current event is Lifebound, gain an additional (1 Rune). Once this turn, you may spend up to (4 Rune) to gain that much (Honor).
+Treasures of the Study	Enlightened	Construct	5	3	1	SoS	Once per turn, you may discard two cards. If you do, Gain (3 Honor).
+Starchild	Lifebound	Hero	4	2	3	SoS	Gain (1 Rune) and (1 Honor). Draw a card.
+Shadowcaster	Void	Hero	5	3	2	SoS	Draw a card. You may banish a card in your hand. If you do, draw an additional card. If the current event is Void, you may also banish a card is your discard pile.
+Dreamer's Glass	Enlightened	Construct	5	3	1	SoS	Once per turn, you may put a card in your hand under this face up. If you do, draw a card. When this leaves play or the game ends, put all cards under it into your discard pile.
+Nihilmancer	Void	Hero	3	1	3	SoS	Gain (2 Power). You may banish a card in your hand. If you do, gain an additonal (1 Power).
+Hoarding Tyrant	Monster	Trophy	6	4	2	SoS	Reward: Gain (4 Honor).  Trophy: You may banish this to gain (2 Rune).
+Avatar of Aiyana	Lifebound	Hero	7	4	1	SoS	Gain (2 Rune). This turn, you may acquire Heroes in the center row by paying (Rune) equal to their (Honor) instead of paying their (Rune) cost.
+Everbloom	Lifebound	Construct	3	2	2	SoS	Once per turn, gain (1 Honor).
+Umbral Edge	Void	Construct	6	3	1	SoS	Once per turn, gain (2 Power). Gain an additional (2 Power) if you control Penumbral Edge.
+Rise of the Cult	Monster	Event	0	0	0	SoS	Cultists and Fanatics have (+1 Power) and their rewards have (+1 Honor).  Event Trophy: Gain (+1 Honor).
+Emri, Soulslayer	Void	Hero	8	4	1	SoS	FATE: Each player may banish up to two cards from their hand and/or discard pile.  Gain (4 Power). You may banish up to two cards from your hand andor discard pile. Gain an additional (1 Power) for each card banished from your hand this way.
+Hedron Rising	Mechana	Event	0	0	0	SoS	All Constructs are also Mechana Constructs.  Event Trophy: When a Construct you control would be destroyed, you may prevent it from being destroyed.
+Fettered Soul	Monster		3	2	4	SoS	Reward: Gain (2 Honor). You may banish a card in the center row.
+Aiyana's Messenger	Lifebound	Hero	1	1	3	SoS	Gain (1 Rune). You pay (1 Rune) less the next time you acquire a Hero this turn.
+Elder Skeptic	Enlightened	Hero	3	1	3	SoS	Draw two cards, then discard a card.
+Granger	Lifebound	Hero	3	2	2	SoS	Gain (1 Rune) and (1 Honor). Unite: Gain (1 rune) and (1 Honor). (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+Honey Siren	Lifebound	Hero	4	2	2	SoS	FATE: When this enters the center row, each player may put a Hero from their discard pile on top of their deck.  Gain (2 Rune). The next time you acquire a Hero this turn, you may put it on top of your deck.
+Polaris Demon	Monster		5	5	2	SoS	Reward: Gain (5 Honor). Choose one: Destroy all even cost Constructs opponents control or destroy all odd cost Constructs opponents control.
+Elemental Adept	Enlightened	Hero	4	3	3	SoS	Draw a card. If the current event is Enlightened, draw an additional card.  You may banish a card in the center row.
+Personal Wormhole	Mechana	Construct	4	4	2	SoS	Once per turn, when you play a Mechana Construct (including this one), you may banish a card in your hand or discard pile.
+Abolisher	Void	Hero	2	1	3	SoS	Gain (1 Rune). You may banish a card in your hand. If you do, gain an additional (1 Rune).
+P.R.I.M.E.	Mechana	Hero	7	3	1	SoS	Acquire a Construct or gain (3 Rune). When you play a Mechana Construct, you may return this from your discard pile you your hand. (Cards played this turn do not go to your discard pile until the end of the turn.)
+Grease Monk	Mechana	Hero	1	1	3	SoS	Gain (1 Rune). You pay (1 Rune) less the next time you acquire a Construct this turn.
+Tarik, the Trickster	Monster		6	5	1	SoS	Reward: Gain (5 Honor). You may choose a Hero in the center row and copy its effect.
+Canopic Jar	Void	Construct	4	2	2	SoS	Once per turn, gain (1 Power). Once per turn, when you defeat a Monster in center row, gain (1 Rune).
+Hoarding Whelp	Monster	Trophy	3	2	4	SoS	Reward: Gain (2 Honor). Trophy: You may banish this to gain (1 power).
+Noxious Soul	Monster		5	4	2	SoS	Reward: Gain (4 Honor). Each opponent must discard a card at random from their hand.

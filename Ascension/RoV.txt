@@ -1,0 +1,47 @@
+Runic Honiskrot	Lifebound	Hero	3	1	2	RoV	Gain (2 Runes).  Energize (3): Gain (2 Power).
+Leotan's Familiar	Lifebound	Hero	1	1	3	RoV	Gain (1 Rune).  Energize (1): Gain (2 Honor).
+Reality Sculptor	Enlightened	Hero	3	1	3	RoV	Copy the effect of a Hero played this turn with cost (3 Rune) or less.
+Cognition Courier	Mechana	Hero	5	3	2	RoV	Gain (2 Runes).  Energize: You pay (1 Rune) less the next time you acquire a Construct this turn for each (Energy) you have gained this turn.
+Nyxian Spiritcaster	Void	Hero	6	3	2	RoV	Gain (3 Energy).  Draw a card.
+Righteous Templar	Enlightened	Hero	4	2	2	RoV	Defeat a Monster that costs (4 Power) or less without paying its cost.  Energize (3): Instead, defeat any Monster without paying its cost.
+Lagoon Troll	Monster		3	2	3	RoV	Reward: Gain (2 Honor). Draw a card.
+Herald of Doom	Monster		8	6	1	RoV	Reward: Gain (6 Honor). Acquire or defeat a card in the center row without paying its cost.  Energize (7): Instead, acquire or defeat all cards in the center row without paying their costs.
+Zeta Arsenal	Mechana	Construct	6	6	2	RoV	Energize (3): Once this turn, gain (1 Power) for each Mechana Construct you control.
+Voidfeeder	Void	Construct	5	3	2	RoV	Once per turn, gain (1 Power).  Energize (2): Once this turn, you may banish a card in your hand or discard pile.
+Raging Ursine	Monster		3	3	3	RoV	Reward: Gain (3 Honor).  Energize (2): Gain (2 Runes).
+Serpent Siren	Monster	Trophy	2	1	3	RoV	Reward: Gain (1 Honor).  Trophy: You may banish this to gain (1 Energy).
+Monk of the Lidless Eye	Enlightened	Hero	5	2	2	RoV	FATE: When this enters the center row, for each Treasure under this, each player draws a card.  Draw two cards.
+Reactor Shrine	Mechana	Construct	8	8	1	RoV	Energize (2): Once this turn, gain (1 Honor) for each Mechana Construct you control.
+Energy Shard - Starting		Treasure	0	0	0	RoV	Gain (1 Energy). Draw (1 card).
+Ogo Demontrap	Lifebound	Construct	4	2	2	RoV	Once per turn, gain (1 Power).  Energize (4): Once this turn, gain (3 Honor).
+Oras, the Redeemer	Lifebound	Hero	7	4	1	RoV	Gain (4 Runes).  Each time you acquire a Hero from the center row this turn, gain (Honor) equal to its (Honor) value.
+Vault Sphinx	Monster	Trophy	4	2	3	RoV	Reward: Gain (2 Honor).  Trophy: You may banish this to gain (2 Energy).
+Foresight Monacle	Mechana	Construct	4	4	2	RoV	Energize (4): Once this turn, gain (1 Rune) for each Mechana Construct you control.
+Omnicron	Mechana	Construct	7	7	1	RoV	FATE: When this enters the center row, for each Treasure under this, add a card to the center row.  Once per turn, gain (1 Energy) for each Mechana Construct you control.
+Oziah, Judge of Logos	Enlightened	Hero	9	5	1	RoV	While this is in the center row, you may acquire this without paying its cost if you have gained (7 Energy) or more this turn.  Defeat all Monsters in the center row without paying their costs.
+Deviant Fiend	Monster		5	3	3	RoV	Reward: Gain (3 Honor).  Energize: Gain an additional (Honor) for each (Energy) you have gained this turn.
+Portabillet	Mechana	Construct	5	5	2	RoV	Once per turn, when you play a Mechana Construct (including this one), draw a card.  Energize (5): Once this turn, draw a card.
+Truth Seeker	Enlightened	Hero	4	2	2	RoV	Draw a card. You may banish a card in the center row. If the next card to enter the center row is a Treasure, acquire it.
+Starcaller Leotan	Lifebound	Hero	6	3	1	RoV	Gain (4 Honor).  Energize: Gain an additional (1 Honor) for each (Energy) you have gained this turn.
+Spirit Merchant	Void	Hero	1	1	3	RoV	FATE: When this enters the center row, for each Treasure under this, each player may banish a card in their hand or discard pile.  Gain (1 Energy).  You may banish a card in your hand or discard pile.
+Tablet of the Dreamer	Enlightened	Construct	5	3	1	RoV	Energize (4): Once this turn, acquire defeat any card in the center row without paying its cost.
+Mordant Widow	Monster		5	4	3	RoV	Reward: Gain (4 Honor). For each opponent, you choose and destroy a Construct they control.
+Illiya the Demonborn	Void	Hero	7	4	1	RoV	Gain (4 Power).  Energize: Gain an additional (1 Power) for each (Energy) you have gained this turn.
+Monastic Tutor	Enlightened	Hero	1	1	3	RoV	Acquire a Mystic or Heavy Infantry without paying its cost.  Energize (1): Put the acquired card in your hand.
+Temporal Eye	Enlightened	Construct	3	1	3	RoV	When this enters play, draw a card.  You may banish this and another Temporal Eye you control to take an additional turn.
+Firestorm Effigy	Monster		4	3	4	RoV	Reward: Gain (3 Honor). You may banish a card in your hand or discard pile.  Energize (1): You may banish an additional card in your hand or discard pile.
+Darkwalker	Void	Hero	3	2	3	RoV	Gain (2 Power).  Energize (1): You may banish a card in your hand or discard pile.
+Twisted Tyrant	Monster		6	6	2	RoV	Reward: Gain (6 Honor).  Energize (3): Draw three cards.
+Blackwatch Vanquisher	Void	Hero	4	2	2	RoV	Gain (2 Power).  Energize (3): Gain an additional (2 Power).
+Tome of Erabus	Void	Construct	4	2	2	RoV	Once per turn, gain (1 Energy).
+Loamspeaker Druid	Lifebound	Hero	5	2	2	RoV	FATE: When this enters the center row, for each Treasure under this, add (10 Honor) to the (Honor) pool.  Gain (3 Runes).
+Wildcall Staff	Lifebound	Construct	5	3	2	RoV	Once per turn, you pay (2 Runes) less to acquire a card with Treasure under it.
+Lifebound Muse	Lifebound	Hero	4	3	2	RoV	Acquire a Hero with cost (4 Runes) or less without paying its cost.  Energize (2): Instead, acquire any Hero without paying its cost.
+Protean Sea Slug	Monster		6	5	1	RoV	Reward: Gain (5 Honor). Each opponent destroys all Constructs they control.
+Skyrocket Drone	Mechana	Hero	1	1	3	RoV	Gain (1 Rune) and an additional (1 Rune) if you control a Construct.
+Ulu, Askara Prince	Enlightened	Hero	6	3	1	RoV	Copy the effect of a Hero played this turn. This effect cannot be copied.  Energize (2): Copy the chosen effect an additional time.
+Prototype CH32	Mechana	Construct	3	3	2	RoV	Energize (1): Once this turn, when you acquire a Mechana Construct, you may put it directly into play.
+Terrus, Paragon of Strife	Monster		7	5	1	RoV	Reward: Gain (5 Honor).  Each opponent discards a random card from their hand. You may choose a card discarded this way and put it in your hand.
+Treasure Hunter	Void	Hero	2	1	3	RoV	Gain (2 Power).  You pay (1 Power) less the next time you defeat a Monster with Treasure under it this turn.
+Beacon Shaman	Lifebound	Hero	2	1	3	RoV	Reveal the top card of your deck and put it in your hand. If it is a Treasure, gain (3 Honor).
+Magnet Monk	Mechana	Hero	3	2	3	RoV	Gain (2 Power).  Gain (1 Energy) for each faction among Constructs you control.

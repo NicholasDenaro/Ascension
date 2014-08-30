@@ -1,0 +1,2 @@
+Pot of Gold	Lifebound	Construct	1	1	9	LTP	When you play this, draw a card. When you play a Leprechaun, gain (1 Honor).
+Leprechaun	Lifebound	Hero	4	2	3	LTP	Gain (2 Runes). Acquire a Pot of Gold from the End of the Rainbow or from another player's control.

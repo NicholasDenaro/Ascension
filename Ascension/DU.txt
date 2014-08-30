@@ -1,0 +1,45 @@
+Erabus, Son of Nyx	Void	Transformed Hero	9	7	1	DU	Defeat a Monster in the Void without paying its cost and put it on the bottom of the center deck.
+Toric, Ascendant	Enlightened	Transformed Hero	6	5	1	DU	Acquire a Hero without paying its cost and put it into your hand.
+Veya, Handmaiden of Logos	Enlightened	Hero	7	4	1	DU	Choose one: Acquire a Hero with cost (6 Rune) or less without paying its cost, or defeat a Monster with cost (6 Power) or less without paying its cost. Energize (2): Instead, you may choose both.
+Arbiter of the Lost	Void	Hero	4	3	2	DU	Gain (2 Energy). You may banish a card in your hand or discard pile.
+Webclaw	Monster		4	3	2	DU	Gain (3 Honor). Each opponent with three or more Constructs in play destroys a Construct they control. Energize (3): Instead, each opponent destroys a Construct they control.
+Crystaline Monk	Mechana	Hero	4	2	2	DU	Gain (2 Rune). You may move a Treasure from underneath a card in the center row to another card in the center row.
+Replication Drone	Mechana	Construct	4	4	2	DU	You are considered to control an additional Mechana Construct.
+Nightmare Sentinel	Void	Hero	3	2	2	DU	Gain (2 Power). The next time you defeat a Monster in the center row this turn, you may banish a card in your hand or discard pile.
+Nyxian Ritualist	Void	Hero	5	3	2	DU	Gain (3 Power) and (3 Energy).
+Dark Energy Shard		Treasure	0	0	10	DU	FATE: Each player may banish a card in their discard pile. Gain (1 Energy). Draw (1 card).
+Gemcatcher Spirit	Enlightened	Hero	2	1	2	DU	Energize (2): Transform this into Otherworldly Guide. (Ignore the rest of this card's effect). Draw a card.
+Shardfinder Compass	Enlightened	Construct	3	1	1	DU	You may banish this to acquire all of the Treasure in the center row.
+Cacklecast Wretch	Monster	Construct	4	4	3	DU	If you have gained (4 Energy) or more this turn, you may defeat this without paying its cost.
+Vault Lich	Monster		3	3	4	DU	FATE: When this enters the center row, banish each card in the center row with Treasure under it. Gain (3 Honor). You may banish a card in the center row with Treasure under it.
+Azerax, Nyx's Chosen	Void	Transformed Hero	7	5	1	DU	Gain (6 Power). You may banish any number of cards in your hand and/or discard pile.
+Riftwalkers Axe	Void		3	2	2	DU	Energize (2): Once this turn, gain (2 Power).
+Otherworldly Guide	Enlightened	Transformed Hero	2	3	2	DU	Draw two cards.
+Yolothian Monolith	Mechana	Construct	8	8	1	DU	Energize (4): Transform this into Yolocryx, the Guardian and put it into your hand.
+Toric, Devoted Disciple	Enlightened	Hero	6	3	1	DU	Energize (4): Transform this into Toric, Ascendant. (Ignore the rest of this card's effect). Copy the effect of a Hero in the center row.
+Voidsworn Champion	Void	Transformed Hero	2	3	2	DU	Gain (4 Power).
+Honiskrot Tribesman	Lifebound	Hero	2	1	2	DU	Energize (2): Transform this into Honiskrot Chieftan. (Ignore the rest of this card's effect). Gain (1 Rune).
+Plunder Devil	Monster		5	5	3	DU	Gain (5 Honor). You may acquire a Hero or Construct with cost (3 Rune) or less without paying its cost. Energize (2): Instead, you may acquire a Hero or Construct with cost (6 Rune) or less without paying its cost.
+Jakeb, Cobra King	Lifebound	Transformed Hero	5	5	1	DU	Gain (6 Honor). When you gain Honor from another card this turn, gain twice that much Honor instead.
+Azerax of the Black Watch	Void	Hero	7	3	1	DU	Energize (4): Transform this into Azerax, Nyx's Chosen. (Ignore the rest of this card's effect.) Gain (4 Power). You may banish a card in your hand or discard pile.
+Hedron Dredger	Mechana	Construct	5	5	2	DU	Once per turn, if you control three or more Mechana Constructs, you may Energize a Construct you control.
+Moken the Huntmaster	Lifebound	Hero	7	0	1	DU	Gain (5 Honor). At the end of the game, Moken, the Huntsmaster's Honor value is equal to the number of Treasure cards in your deck.
+Charging Chamber	Mechana	Construct	3	3	2	DU	Once per turn, when you play a Mechana Construct (including this one), gain (1 Energy).
+Smoke Tyrant	Monster		7	4	1	DU	Gain (4 Honor). Banish the top seven cards of the center deck. Put all Treasures banished this way under this. Ongoing Trophy: Once per turn, gain (1 Energy) for reach Treasure under this.
+Dendris the Gladewyrm	Lifebound	Hero	6	3	1	DU	Gain (2 Rune, 2 Power, 2 Honor). Energize (3): Gain an additional (2 Rune, 2 Power, 2 Honor).
+Yolocryx the Guardian	Mechana	Transformed Hero	8	8	1	DU	Gain (5 Power) and an additional (1 Power) for each Mechana Construct you control. When you play a Mechana Construct, you may return this from your discard pile to your hand.
+Erabus the Exiled	Monster		9	0	1	DU	If you have played a Dark Energy Shard this turn, you pay (2 power) less to defeat this. Reward: Transform this into Erabus, Son of Nyx and put it into your hand.
+Mosaic Horn	Lifebound	Construct	3	2	2	DU	Energize (2): Once this turn, gain (2 Rune).
+Anointed Askara	Enlightened	Hero	5	3	2	DU	Draw a card. Once this turn, when you acquire a Hero or Construct from the center row, put it into your hand.
+Arha Mentor	Enlightened	Hero	4	2	2	DU	Energize (2): Draw a card. You may banish a card from your hand. If you do, acquire a Mystic or Heavy Infantry without paying its cost and put it into your hand.
+Voidsworn Warrior	Void	Hero	2	1	2	DU	Energize (2): Transform this into Voidsworn Champion. (Ignore the rest of this card's effect). Gain (1 Power).
+Energy Shard		Treasure	0	0	0	DU	Gain (1 Energy). Draw (1 card).
+Scrabbling Squad	Mechana	Transformed Hero	2	3	2	DU	Gain (2 Rune) and (2 Power).
+Jakeb, Cobra Shaman	Lifebound	Hero	5	3	1	DU	Energize (4): Transform this into Jakeb, Cobra King. (Ignore the rest of this card's effect). Gain (3 Honor).
+Scrap Scrabbler	Mechana	Hero	2	1	2	DU	Energize (2): Transform this into Scrabbling Squad. (Ignore the rest of this card's effect). Gain (1 Rune) and (1 Power).
+Valiant Ascetic	Enlightened	Hero	2	1	2	DU	You may banish this to defeat a Monster with cost (5 Power) or less without paying its cost.
+Oxipede	Monster		3	2	4	DU	Gain (2 Honor). Energize (2): Gain (2 Honor).
+Honiskrot Chieftan	Lifebound	Transformed Hero	2	3	2	DU	Gain (3 Rune).
+Phasefiend	Monster		2	1	3	DU	Gain (1 Honor). You may banish a card in your hand or discard pile.
+Raven Siren	Lifebound	Hero	3	1	2	DU	Gain (1 Rune). Energize: You pay (1 Rune) less for each (Energy) you have gained this turn the next time you acquire a Hero this turn.
+Gem-Eater Leprechaun	Lifebound	Hero	4	2	2	DU	Gain (2 Rune) and (2 Energy).

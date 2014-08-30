@@ -1,0 +1,31 @@
+Combustion Idol	Mechana	Construct	5	5	2	RotF	Once per turn, you may draw a card if you control three or more Mechana Constructs.
+Lunar Stag	Lifebound	Hero	3	1	3	RotF	Gain (2 Rune) or (2 honor).
+Adayu, the Chosen	Enlightened	Hero	8	6	1	RotF	Acquire or defeat any card in the center row. (You do not have to pay (Rune) or (Power).)
+Black Hole	Void	Construct	5	4	1	RotF	Once per turn, you may banish a card in your hand. If you do, gain (1 power).
+Hectic Scribe	Enlightened	Hero	1	1	3	RotF	Draw two cards, then discard two cards.
+Arha Sensei	Enlightened	Hero	3	2	3	RotF	Banish a card in your hand. If you do, acquire a Mystic or Heavy Infantry. Add it to your hand.
+Dimension Diver	Mechana	Hero	3	1	2	RotF	Gain (2 Rune). You may treat all constructs as Mechana Constructs this turn.
+Fire Tyrant	Monster		6	6	2	RotF	Reward: Gain (6 Honor). Each opponent must discard a card.
+Reclamax	Mechana	Construct	4	4	2	RotF	FATE: When this enters the center row, each player may choose a construct in their discard pile and put it into their hand.  You may discard Reclamax from play to acquire a Mechana Construct in the Void as though it were in the center row.
+Askara of Fate	Enlightened	Hero	4	2	2	RotF	FATE: When this enters the center row, each player may draw a card.  Draw two cards. Each other player may draw a card. Then you may banish a card in the center row.
+Vaultbreaker Wurm	Monster		5	4	3	RotF	Reward: Gain (4 Honor). Each opponent must put their highest cost Construct into their Discard pile. (They choose in case of a tie.)
+Socket Altar	Mechana	Construct	6	6	2	RotF	Once per turn, when you put a Mechana Construct into play (including this one), gain (2 Rune).
+Arbiter of Fate	Void	Hero	4	2	2	RotF	FATE: When this enters the center row, each player may banish a card from their hand or discard pile.  Draw a card. You may banish a card in your hand or discard pile.
+Dandelion Witch	Lifebound	Hero	4	2	2	RotF	Draw a card. Gain (1 Honor) for each Lifebound Hero you play or have played this turn (including this one).
+Dhartha's Retreat	Enlightened	Construct	4	3	1	RotF	If you do not acquire or defeat a card during your turn, you may draw two additional cards at the end of your turn.
+Guardian of Sadranis	Void	Hero	1	1	3	RotF	Gain (1 Power). The next time you defeat a Monster in the center row or the Void this turn, gain (2 Honor).
+Serpentcall	Lifebound	Construct	7	4	1	RotF	Once per turn, gain (2 Rune). Once per turn, you may acquire a Hero in the Void as though it were in the center row.
+Sordid Asp	Monster		3	1	4	RotF	Reward: Gain (1 Honor), then steal (2 Honor) from an opponent with the most (Honor) if they have more than you.
+Stone Circle	Lifebound	Construct	5	4	2	RotF	FATE: When this enters the center row, each player may acquire a Mystic.  Put it on top of their deck.  Once per turn, when you acquire a Hero, you may put it on top of your deck.
+Nairi, Henge Queen	Lifebound	Hero	6	3	1	RotF	Gain (5 Honor).
+Bazu, Duke of Scorn	Monster		6	4	1	RotF	Reward: Gain (4 honor). Each opponent either discards a card for each Construct they control or puts all Constructs into their discard pile.
+Great-Omen Raven	Lifebound	Hero	2	1	3	RotF	Name a card. Reaveal the top card of your deck and put it into your hand. If it is the named card, gain (3 Honor).
+Ravenous Gorph	Monster		3	3	3	RotF	FATE: When this enters the center row, banish all cards adjacent to it.  Reward: Gain (3 Honor) You may banish a card that was adjacent to this.
+Project Alpha	Mechana	Construct	7	7	1	RotF	Once per turn, you may acquire a Hero or Construct with (Rune) cost less than or equal to the number of Mechana Constructs you control.
+Battery Monk	Mechana	Hero	2	1	3	RotF	You may pay (1 Rune) less the next time you acquire a Construct this turn. Draw a card.
+Deathseeker	Void	Hero	2	1	3	RotF	Gain (2 Power). If this is banished from your hand or discard pile, gain (3 Honor).
+Samael the Fallen	Monster		8	8	1	RotF	Unbanishable. Reward: Gain (8 Honor). Place this face up in front of you. For the rest of the game, when you defeat a Monster in the center row or the Void, you may acquire it. Monsters in your deck are considered Heroes. When you play them, you gain their (Power).
+Doom Weeper	Monster		4	2	3	RotF	Reward: Gain (2 Honor). Gain (2 Rune).
+Eternal Askara	Enlightened	Hero	5	3	2	RotF	Banish a card in the center row. If you banish a Monster this way, gain (3 Honor).
+Sadranis, Dark Emissary	Void	Hero	7	4	1	RotF	Gain (3 Power). You may defeat a Monster in the Void as though it were in the center row. If you do, put it on the bottom of the center deck.
+Black Watch Elite	Void	Hero	5	2	2	RotF	Gain (3 Power). You may banish a card in your hand or discard pile.

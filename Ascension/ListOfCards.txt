@@ -1,0 +1,320 @@
+Image	Name	Faction	Type	Cost	Honor	Rarity	Set	Text
+	Aaron the Godslayer	Enlightened	Hero	7	4	1	IH	Defeat a Monster without paying its cost.
+	Abolisher	Void	Hero	2	1	3	SoS	Gain (1 Rune). You may banish a card in your hand. If you do, gain an additional (1 Rune).
+	Acidic Crawler	Monster		6	5	3	IH	Reward: (5 Honor). If an opponent controls the most Constructs, destroy all Constructs that player controls. (If multiple opponents are tied for the most Constructs, they all destroy them. If you control the most, do nothing).
+	Adayu, the Chosen	Enlightened	Hero	8	6	1	RotF	Acquire or defeat any card in the center row. (You do not have to pay (Rune) or (Power).)
+	Aiyana's Messenger	Lifebound	Hero	1	1	3	SoS	Gain (1 Rune). You pay (1 Rune) less the next time you acquire a Hero this turn.
+	Akam, the Genie	Monster		7	3	1	IH	Reward: (3 Honor).  Ongoing Trophy: Put three Wish counters on Akam.  Once per turn, you may remove a Wish counter to gain (2 runes) or (2 power).  When Akam has no Wish counters, banish it.
+	Annihilation	Void	Event	0	0	0	IH	When a player acquires a Void card, that player may banish a card in his hand or discard pile.  Event Trophy: Gain (1 Power).
+	Anointed Askara	Enlightened	Hero	5	3	2	DU	Draw a card. Once this turn, when you acquire a Hero or Construct from the center row, put it into your hand.
+	Apprentice			0	0	0		(+1 Rune).
+	Arbiter of Fate		Soul Gem	0	0	2	IH	FATE: When this enters the center row, each player may banish a card from their hand or discard pile.  Draw a card. You may banish a card in your hand or discard pile. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Arbiter of Fate	Void	Hero	4	2	2	RotF	FATE: When this enters the center row, each player may banish a card from their hand or discard pile.  Draw a card. You may banish a card in your hand or discard pile.
+	Arbiter of the Lost	Void	Hero	4	3	2	DU	Gain (2 Energy). You may banish a card in your hand or discard pile.
+	Arbiter of the Precipice	Void	Hero	4	1	2	CotG	Draw two cards. Banish a card in your hand.
+	Arha Medium	Enlightened	Hero	2	1	3	IH	You may banish this to acquire a Mystic or Heavy Infantry without paying its cost. Put it into your hand.
+	Arha Initiate		Soul Gem	0	0	2	IH	Draw a card. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Arha Initiate	Enlightened	Hero	1	1	3	CotG	Draw a card.
+	Arha Mentor	Enlightened	Hero	4	2	2	DU	Energize (2): Draw a card. You may banish a card from your hand. If you do, acquire a Mystic or Heavy Infantry without paying its cost and put it into your hand.
+	Arha Rising	Enlightened	Event	0	0	0	SoS	Once during their turn, when a player discards any number of cards, they may return one of them to their hand.  Event Trophy: Draw a card.
+	Arha Sanctuary	Enlightened	Construct	3	2	1	Promo	When this enters play, put the top card of your deck under this face up. Once per turn, you may swap a card in your hand for the card under Arha Sanctuary.  When Arha Sanctuary leaves play or the game ends, put the card under it into your discard pile.
+	Arha Sensei	Enlightened	Hero	3	2	3	RotF	Banish a card in your hand. If you do, acquire a Mystic or Heavy Infantry. Add it to your hand.
+	Arha Templar		Soul Gem	0	0	2	IH	Defeat a Monster that has (4 power) or less without paying its cost. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Arha Templar	Enlightened	Hero	4	3	2	CotG	Defeat a Monster that has (4 power) or less without paying its cost.
+	Ascetic of the Lidless Eye		Soul Gem	0	0	2	IH	Draw two cards. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Ascetic of the Lidless Eye	Enlightened	Hero	5	2	2	CotG	Draw two cards.
+	Askara of Fate	Enlightened	Hero	4	2	2	RotF	FATE: When this enters the center row, each player may draw a card.  Draw two cards. Each other player may draw a card. Then you may banish a card in the center row.
+	Askara of Fortune	Enlightened	Hero	3	1	1	Promo	Each player reveals the top card of their deck. Choose a Hero revealed this way and copy its effect.
+	Askara of Souls	Enlightened	Hero	4	2	2	IH	Gain a Soul Gem.
+	Assimilation Plant	Mechana	Construct	9	9	1	Promo	Your Mechana Heroes are Constructs instead. You may use their abilities once per turn.  If this leaves play, put all of your Mechana Heroes in play into your discard pile.
+	Astrolabe TRX	Mechana	Construct	5	5	2	IH	Once per turn, when you play a Mechana Construct (including this one), gain (1 Honor).
+	Autobuilder 5.0	Mechana	Construct	5	5	2	SoS	You may destroy this to pay (2 Rune) less the next time you acquire a Mechana Construct this turn.
+	Avatar Golem		Soul Gem	0	0	2	IH	Gain (2 Power). Gain (1 Honor) for each faction among Constructs you control. (Factions are Enlightened, Mechana, Lifebound, and Void.) (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Avatar Golem	Mechana	Hero	4	2	2	CotG	Gain (2 Power). Gain (1 Honor) for each faction among Constructs you control. (Factions are Enlightened, Mechana, Lifebound, and Void.)
+	Avatar of Aiyana	Lifebound	Hero	7	4	1	SoS	Gain (2 Rune). This turn, you may acquire Heroes in the center row by paying (Rune) equal to their (Honor) instead of paying their (Rune) cost.
+	Avatar of the Fallen	Monster		7	4	1	CotG	Unbanishable. Reward: Gain (4 Honor). You may acquire or defeat any card in the center row without paying its cost.
+	Azerax, Nyx's Chosen	Void	Transformed Hero	7	5	1	DU	Gain (6 Power). You may banish any number of cards in your hand and/or discard pile.
+	Azerax of the Black Watch	Void	Hero	7	3	1	DU	Energize (4): Transform this into Azerax, Nyx's Chosen. (Ignore the rest of this card's effect.) Gain (4 Power). You may banish a card in your hand or discard pile.
+	Battery Monk	Mechana	Hero	2	1	3	RotF	You may pay (1 Rune) less the next time you acquire a Construct this turn. Draw a card.
+	Bazu, Duke of Scorn	Monster		6	4	1	RotF	Reward: Gain (4 honor). Each opponent either discards a card for each Construct they control or puts all Constructs into their discard pile.
+	Beacon Shaman	Lifebound	Hero	2	1	3	RoV	Reveal the top card of your deck and put it in your hand. If it is a Treasure, gain (3 Honor).
+	Beast Staff	Lifebound	Construct	4	2	2	IH	Gain (1 Power).  Once per turn, you may pay (1 rune) to reveal the top card of your deck. Gain (honor) equal to its (honor) value.
+	Belthar, Soul Collector	Void	Hero	6	3	1	IH	Gain (3 Power).  The next time you defeat a Monster in the center row this turn, gain (3 Runes).
+	Big Bad Bunny	Monster		8	5	1	Promo	FATE: Place a card from the center deck facedown under this and each other card in the center row. Whenever a player acquires or defeats a card on top of a facedown card, they acquire or defeat the facedown card without paying its cost.  Reward: Gain (5 Honor). Acquire or defeat all facedown cards in the center row.
+	Black Hole	Void	Construct	5	4	1	RotF	Once per turn, you may banish a card in your hand. If you do, gain (1 power).
+	Black Watch Elite	Void	Hero	5	2	2	RotF	Gain (3 Power). You may banish a card in your hand or discard pile.
+	Blackwatch Vanquisher	Void	Hero	4	2	2	RoV	Gain (2 Power).  Energize (3): Gain an additional (2 Power).
+	Brazer Drone	Mechana	Hero	2	1	2	SoS	Gain (1 Rune). You may return a Construct from your discard pile to your hand.
+	Burrower Mark II	Mechana	Construct	3	3	2	CotG	Once per turn, when you put a Mechana Construct into play (including this one), draw a card.
+	Cacklecast Wretch	Monster	Construct	4	4	3	DU	If you have gained (4 Energy) or more this turn, you may defeat this without paying its cost.
+	Cackling Jackal	Monster	Trophy	3	2	3	IH	Reward: (2 Honor).  Trophy: Banish this to gain (1 Rune).
+	Canopic Jar	Void	Construct	4	2	2	SoS	Once per turn, gain (1 Power). Once per turn, when you defeat a Monster in center row, gain (1 Rune).
+	Cetra, Guide of Ogo	Lifebound	Hero	8	4	1	Promo	Acquire all Heroes in the center row without paying their costs. Put them on top of your deck in any order.
+	Cetra, Weaver of Stars	Lifebound	Hero	7	4	1	CotG	Acquire a Hero without paying  its cost. Place it on top of your deck.
+	Charging Chamber	Mechana	Construct	3	3	2	DU	Once per turn, when you play a Mechana Construct (including this one), gain (1 Energy).
+	Cobra the Sordid	Void	Hero	7	3	1	Promo	Gain (3 Power).  The next time you defeat a Monster this turn, you may take its (Honor) reward from the player with the most (Honor) instead of from the (Honor) pool. Choose one in case of a tie.
+	Cog Maw	Mechana	Construct	6	6	2	SoS	Once per turn, you may destroy a Mechana Construct you control to gain (1 Rune). If the current event is Mechana, gain an additional (1 Rune).
+	Cognition Courier	Mechana	Hero	5	3	2	RoV	Gain (2 Runes).  Energize: You pay (1 Rune) less the next time you acquire a Construct this turn for each (Energy) you have gained this turn.
+	Combustion Idol	Mechana	Construct	5	5	2	RotF	Once per turn, you may draw a card if you control three or more Mechana Constructs.
+	Constricting Horror	Monster		5	4	1	Promo	Reward: Gain (4 Honor).  Reveal cards from the center deck until you reveal a Hero.  Acquire that Hero without paying its cost and banish each other card revealed this way.
+	Control Room	Mechana	Construct	5	5	1	Promo	Once per turn, you may put a Mechana Construct you control on top of the center deck. If you do, acquire a Mechana Construct in the center row and put it in your hand.
+	Corrosive Widow	Monster		4	3	4	CotG	Reward: Gain (3 Honor). Each opponent must destroy a Construct he controls.
+	Cosmic Protocol	Mechana	Event	0	0	0	IH	When a player acquires a Mechana Construct, that player may put it directly into play.  Event Trophy: You pay (2 Runes) less to acquire your next Mechana Construct this turn.
+	Crystaline Monk	Mechana	Hero	4	2	2	DU	Gain (2 Rune). You may move a Treasure from underneath a card in the center row to another card in the center row.
+	Cultist	Monster		2	1	0		Reward: Gain (1 Honor)
+	Dandelion Witch	Lifebound	Hero	4	2	2	RotF	Draw a card. Gain (1 Honor) for each Lifebound Hero you play or have played this turn (including this one).
+	Dark Energy Shard		Treasure	0	0	10	DU	FATE: Each player may banish a card in their discard pile. Gain (1 Energy). Draw (1 card).
+	Darkwalker	Void	Hero	3	2	3	RoV	Gain (2 Power).  Energize (1): You may banish a card in your hand or discard pile.
+	Deathseeker	Void	Hero	2	1	3	RotF	Gain (2 Power). If this is banished from your hand or discard pile, gain (3 Honor).
+	Deathsworn Warrior	Void	Hero	1	1	3	IH	FATE: Each player may banish a card from their hand or discard pile.  Gain (1 Power).  You may banish a card in your hand or discard pile.  Then, you may banish this to banish a second card in your hand or discard pile.
+	Deep Drone	Mechana	Hero	4	2	2	Promo	Gain (2 Rune). Put the next Construct you acquire this turn directly into play.
+	Demon Slayer		Soul Gem	0	0	2	IH	Gain (3 Power). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Demon Slayer	Void	Hero	4	2	2	CotG	Gain (3 Power).
+	Dendris the Gladewyrm	Lifebound	Hero	6	3	1	DU	Gain (2 Rune, 2 Power, 2 Honor). Energize (3): Gain an additional (2 Rune, 2 Power, 2 Honor).
+	Deviant Fiend	Monster		5	3	3	RoV	Reward: Gain (3 Honor).  Energize: Gain an additional (Honor) for each (Energy) you have gained this turn.
+	Dhartha's Retreat	Enlightened	Construct	4	3	1	RotF	If you do not acquire or defeat a card during your turn, you may draw two additional cards at the end of your turn.
+	Dimension Diver		Soul Gem	0	0	2	IH	Gain (2 Rune). You may treat all constructs as Mechana Constructs this turn. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Dimension Diver	Mechana	Hero	3	1	2	RotF	Gain (2 Rune). You may treat all constructs as Mechana Constructs this turn.
+	Doom Weeper	Monster		4	2	3	RotF	Reward: Gain (2 Honor). Gain (2 Rune).
+	Dream Machine	Mechana	Construct	7	7	1	SoS	FATE: When this enters the center row, each player may return a construct they control to their hand.  Once per turn, you may return another Mechana Construct you control to your hand.
+	Dreamer's Glass	Enlightened	Construct	5	3	1	SoS	Once per turn, you may put a card in your hand under this face up. If you do, draw a card. When this leaves play or the game ends, put all cards under it into your discard pile.
+	Driller Mark IV	Mechana	Construct	6	6	2	IH	Once per turn, when you play a Mechana Construct (including this one), gain a Soul Gem.
+	Druids of the Stone Circle		Soul Gem	0	0	2	IH	Acquire a Hero with cost (3 Rune) or less without paying its cost. Place it on top of your deck. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Druids of the Stone Circle	Lifebound	Hero	4	3	2	CotG	Acquire a Hero with cost (3 Rune) or less without paying its cost. Place it on top of your deck.
+	Earth Tyrant	Monster		6	5	2	CotG	Reward: Gain (5 Honor). Draw two cards.
+	Elan, Soul Marshal	Enlightened	Hero	6	3	1	IH	Gain a Soul Gem. Draw a card.
+	Elder Skeptic	Enlightened	Hero	3	1	3	SoS	Draw two cards, then discard a card.
+	Elemental Adept	Enlightened	Hero	4	3	3	SoS	Draw a card. If the current event is Enlightened, draw an additional card.  You may banish a card in the center row.
+	Emri, One with the Void	Void	Hero	6	3	1	CotG	Gain (4 Power).
+	Emri, Soulslayer	Void	Hero	8	4	1	SoS	FATE: Each player may banish up to two cards from their hand and/or discard pile.  Gain (4 Power). You may banish up to two cards from your hand andor discard pile. Gain an additional (1 Power) for each card banished from your hand this way.
+	Ender of Days	Monster		10	10	1	Promo	Reward: Gain (10 Honor). Remove all (Honor) from the (Honor) pool.
+	Energy Monk	Mechana	Hero	4	2	1	IH	Gain (2 Power).  You may return a Construct you control to your hand.
+	Energy Shard - Starting		Treasure	0	0	0	RoV	Gain (1 Energy). Draw (1 card).
+	Energy Shard		Treasure	0	0	0	DU	Gain (1 Energy). Draw (1 card).
+	Erabus, Son of Nyx	Void	Transformed Hero	9	7	1	DU	Defeat a Monster in the Void without paying its cost and put it on the bottom of the center deck.
+	Erabus the Exiled	Monster		9	0	1	DU	If you have played a Dark Energy Shard this turn, you pay (2 power) less to defeat this. Reward: Transform this into Erabus, Son of Nyx and put it into your hand.
+	Eternal Askara	Enlightened	Hero	5	3	2	RotF	Banish a card in the center row. If you banish a Monster this way, gain (3 Honor).
+	Everbloom	Lifebound	Construct	3	2	2	SoS	Once per turn, gain (1 Honor).
+	Eye of Destiny	Enlightened	Construct	7	3	1	SoS	Once per turn, when you acquire a Hero, you may put it into your hand.
+	Fanatic	Monster	Trophy	3	1	6	SoS	Reward: Gain (1 Honor).  Trophy: You may banish this to gain the current Event Trophy effect. A player may have no more than one Fanatic Trophy in play at a time.
+	Fettered Soul	Monster		3	2	4	SoS	Reward: Gain (2 Honor). You may banish a card in the center row.
+	Fire Tyrant	Monster		6	6	2	RotF	Reward: Gain (6 Honor). Each opponent must discard a card.
+	Firestorm Effigy	Monster		4	3	4	RoV	Reward: Gain (3 Honor). You may banish a card in your hand or discard pile.  Energize (1): You may banish an additional card in your hand or discard pile.
+	Flytrap Witch	Lifebound	Hero	5	2	2	CotG	Gain (2 Honor). Draw a card.
+	Foresight Monacle	Mechana	Construct	4	4	2	RoV	Energize (4): Once this turn, gain (1 Rune) for each Mechana Construct you control.
+	Gem-Eater Leprechaun	Lifebound	Hero	4	2	2	DU	Gain (2 Rune) and (2 Energy).
+	Gemcatcher Spirit	Enlightened	Hero	2	1	2	DU	Energize (2): Transform this into Otherworldly Guide. (Ignore the rest of this card's effect). Draw a card.
+	Giant Rat	Monster		1	1	5	RKTP	Any card underneath Giant Rat cannot be acquired, banished, or defeated until Giant Rat is banished or defeated. Reward: Gain (1 Honor). (Do not shuffle these into the center deck. At the beginning of the game put these off to the side in the "Rat Nest" zone.)
+	Granger	Lifebound	Hero	3	2	2	SoS	Gain (1 Rune) and (1 Honor). Unite: Gain (1 rune) and (1 Honor). (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+	Grease Monk	Mechana	Hero	1	1	3	SoS	Gain (1 Rune). You pay (1 Rune) less the next time you acquire a Construct this turn.
+	Great-Omen Raven		Soul Gem	0	0	2	IH	Name a card. Reaveal the top card of your deck and put it into your hand. If it is the named card, gain (3 Honor). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Great-Omen Raven	Lifebound	Hero	2	1	3	RotF	Name a card. Reaveal the top card of your deck and put it into your hand. If it is the named card, gain (3 Honor).
+	Growmites	Monster	Trophy	3	2	5	IH	Reward: (2 Honor).  Ongoing Trophy: When you defeat another Growmites, gain (2 honor).
+	Guardian of Sadranis	Void	Hero	1	1	3	RotF	Gain (1 Power). The next time you defeat a Monster in the center row or the Void this turn, gain (2 Honor).
+	Heavy Infantry			2	1	0		(+2 Power).
+	Hectic Scribe	Enlightened	Hero	1	1	3	RotF	Draw two cards, then discard two cards.
+	Hedron Cannon	Mechana	Construct	8	8	1	CotG	Once per turn, gain (1 Power) for each Mechana Construct you control.
+	Hedron Dredger	Mechana	Construct	5	5	2	DU	Once per turn, if you control three or more Mechana Constructs, you may Energize a Construct you control.
+	Hedron Flare	Mechana	Construct	6	6	1	Promo	Once per turn, you may acquire a Mechana Hero in the center row without paying its cost.
+	Hedron Link Device	Mechana	Construct	7	7	1	CotG	You may treat all Constructs as Mechana Constructs.
+	Hedron Pyromaniac	Mechana	Hero	4	3	2	IH	Gain (2 Runes).  You may destroy a Construct you control to gain a Soul Gem.
+	Hedron Rising	Mechana	Event	0	0	0	SoS	All Constructs are also Mechana Constructs.  Event Trophy: When a Construct you control would be destroyed, you may prevent it from being destroyed.
+	Herald of Doom	Monster		8	6	1	RoV	Reward: Gain (6 Honor). Acquire or defeat a card in the center row without paying its cost.  Energize (7): Instead, acquire or defeat all cards in the center row without paying their costs.
+	Hoarding Tyrant	Monster	Trophy	6	4	2	SoS	Reward: Gain (4 Honor).  Trophy: You may banish this to gain (2 Rune).
+	Hoarding Whelp	Monster	Trophy	3	2	4	SoS	Reward: Gain (2 Honor). Trophy: You may banish this to gain (1 power).
+	Honey Siren	Lifebound	Hero	4	2	2	SoS	FATE: When this enters the center row, each player may put a Hero from their discard pile on top of their deck.  Gain (2 Rune). The next time you acquire a Hero this turn, you may put it on top of your deck.
+	Honiskrot Chieftan	Lifebound	Transformed Hero	2	3	2	DU	Gain (3 Rune).
+	Honiskrot Tribesman	Lifebound	Hero	2	1	2	DU	Energize (2): Transform this into Honiskrot Chieftan. (Ignore the rest of this card's effect). Gain (1 Rune).
+	Illiya the Demonborn	Void	Hero	7	4	1	RoV	Gain (4 Power).  Energize: Gain an additional (1 Power) for each (Energy) you have gained this turn.
+	Jakeb, Cobra King	Lifebound	Transformed Hero	5	5	1	DU	Gain (6 Honor). When you gain Honor from another card this turn, gain twice that much Honor instead.
+	Jakeb, Cobra Shaman	Lifebound	Hero	5	3	1	DU	Energize (4): Transform this into Jakeb, Cobra King. (Ignore the rest of this card's effect). Gain (3 Honor).
+	Journeyman Sage	Enlightened	Hero	4	2	1	Promo	FATE: When this enters the center row, each player may banish a hero in their hand to acquire a Mystic or Heavy Infantry and add it to their hand. Banish a Hero in your hand. If you do, acquire a Hero with Honor value up to one more than that of the banished card and put it in your hand.
+	Kor, the Ferromancer	Mechana	Hero	3	2	1	CotG	Gain (2 Power). Draw a card if you control 2 or more Constructs.
+	Kythis, Rebel Godling	Monster		8	8	1	IH	Reward: (8 Honor).  Ongoing Trophy:  Once per turn, gain a Soul Gem.
+	Kythis, the Gatekeeper	Monster		7	5	1	Promo	FATE: When this enters the center row, take the top card of the center deck and place it face down underneat this.  If this leaves the center row, replace it with that card.  Reward: Gain (5 Honor) and acquire or defeat the card underneath without paying its cost.
+	Lagoon Troll	Monster		3	2	3	RoV	Reward: Gain (2 Honor). Draw a card.
+	Landtalker		Soul Gem	0	0	1	IH	Gain (3 Rune). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Landtalker	Lifebound	Hero	6	3	1	CotG	Gain (3 Rune).
+	Leotan's Familiar	Lifebound	Hero	1	1	3	RoV	Gain (1 Rune).  Energize (1): Gain (2 Honor).
+	Leprechaun	Lifebound	Hero	4	2	3	LTP	Gain (2 Runes). Acquire a Pot of Gold from the End of the Rainbow or from another player's control.
+	Lifebound Initiate		Soul Gem	0	0	2	IH	Gain (1 Rune) and (1 Honor). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Lifebound Initiate	Lifebound	Hero	1	1	3	CotG	Gain (1 Rune) and (1 Honor).
+	Lifebound Muse	Lifebound	Hero	4	3	2	RoV	Acquire a Hero with cost (4 Runes) or less without paying its cost.  Energize (2): Instead, acquire any Hero without paying its cost.
+	Lionheart	Lifebound	Hero	5	3	2	SoS	Gain (3 Honor). Unite: Draw a card. (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+	Loamspeaker Druid	Lifebound	Hero	5	2	2	RoV	FATE: When this enters the center row, for each Treasure under this, add (10 Honor) to the (Honor) pool.  Gain (3 Runes).
+	Lotus Siren	Lifebound	Hero	4	2	1	Promo	Gain (2 Runes).  Whenever you acquire a Hero or Treasure card, gain (1 Honor). (Gain (Honor) for each card acquired.)
+	Lunar Stag	Lifebound	Hero	3	1	3	RotF	Gain (2 Rune) or (2 honor).
+	Magnet Monk	Mechana	Hero	3	2	3	RoV	Gain (2 Power).  Gain (1 Energy) for each faction among Constructs you control.
+	Master Dhartha		Soul Gem	0	0	1	IH	Draw three cards. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Master Dhartha	Enlightened	Hero	7	3	1	CotG	Draw three cards.
+	Mechana Initiate		Soul Gem	0	0	2	IH	Gain (1 Rune) or (1 Power). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Mechana Initiate	Mechana	Hero	1	1	3	CotG	Gain (1 Rune) or (1 Power).
+	Mephit	Monster		3	2	3	CotG	Reward: Gain (2 Honor). You may banish a card in the center row.
+	Militia			0	0	0		(+1 Power).
+	Minotaur	Monster	Trophy	4	3	4	SoS	Reward: Gain (3 Honor).  Trophy: You may banish this to draw a card.
+	Mistake of Creation	Monster		4	4	4	CotG	Reward: Gain (4 Honor). You may banish a card in the center row andor a card in your discard pile.
+	Moken the Huntmaster	Lifebound	Hero	7	0	1	DU	Gain (5 Honor). At the end of the game, Moken, the Huntsmaster's Honor value is equal to the number of Treasure cards in your deck.
+	Moment of Clarity	Enlightened	Event	0	0	0	IH	When a player acquires an Enlightened card, that player may draw a card.  Event Trophy:  Banish a card in your hand.  If you do, acquire a Mystic without paying its cost. Put it into your hand.
+	Monastic Tutor	Enlightened	Hero	1	1	3	RoV	Acquire a Mystic or Heavy Infantry without paying its cost.  Energize (1): Put the acquired card in your hand.
+	Monk of the Lidless Eye	Enlightened	Hero	5	2	2	RoV	FATE: When this enters the center row, for each Treasure under this, each player draws a card.  Draw two cards.
+	Moon Staff	Lifebound	Construct	4	2	1	Promo	Once per turn, you may spend (4 Runes) to double your (Power).
+	Mordant Widow	Monster		5	4	3	RoV	Reward: Gain (4 Honor). For each opponent, you choose and destroy a Construct they control.
+	Mosaic Horn	Lifebound	Construct	3	2	2	DU	Energize (2): Once this turn, gain (2 Rune).
+	Mudfin Angler	Monster		6	5	1	Promo	Gain (5 Honor). Choose an opponent and name a card. The chosen opponent reveals their hand and you put any of the named card into your hand.
+	Muramasa	Void	Construct	7	4	1	CotG	Once per turn, Gain (3 Power).
+	Mystic			3	1	0		(+2 Rune).
+	Nairi, Henge Queen	Lifebound	Hero	6	3	1	RotF	Gain (5 Honor).
+	Nemesis	Monster		8	6	1	SoS	FATE: When this enters the center row, banish the current event.  Reward: Gain (6 Honor). Choose up to three Trophy Monsters from the Void and put them into play under your control.
+	Nethersnare	Void	Construct	3	2	1	Promo	Once per turn, if there is no Monster under this, you may put a Monster from the center row under it. You may defeat Monsters under this as though they were in the center row. If this leaves play, put any Monster under this on top of the center deck.
+	Nightmare Sentinel	Void	Hero	3	2	2	DU	Gain (2 Power). The next time you defeat a Monster in the center row this turn, you may banish a card in your hand or discard pile.
+	Nihilmancer	Void	Hero	3	1	3	SoS	Gain (2 Power). You may banish a card in your hand. If you do, gain an additonal (1 Power).
+	Nook Hound	Enlightened	Hero	2	1	3	SoS	FATE: When this enters the center row, each player may look at the top card of their deck. They may put it into their discard pile.  Look at the top card of your deck. You may put it into your discard pile. Draw a card.
+	Nothing Man	Monster	Trophy	4	3	3	IH	Reward: (3 Honor).  Trophy: Banish this to gain a Soul Gem.
+	Noxious Soul	Monster		5	4	2	SoS	Reward: Gain (4 Honor). Each opponent must discard a card at random from their hand.
+	Nyxian Ritualist	Void	Hero	5	3	2	DU	Gain (3 Power) and (3 Energy).
+	Nyxian Spiritcaster	Void	Hero	6	3	2	RoV	Gain (3 Energy).  Draw a card.
+	Ogo Demontrap	Lifebound	Construct	4	2	2	RoV	Once per turn, gain (1 Power).  Energize (4): Once this turn, gain (3 Honor).
+	Ogo Rising	Lifebound	Event	0	0	0	SoS	The first Hero played each turn is also a Lifebound hero.  Event Trophy: Gain (1 Rune).
+	Omnicron	Mechana	Construct	7	7	1	RoV	FATE: When this enters the center row, for each Treasure under this, add a card to the center row.  Once per turn, gain (1 Energy) for each Mechana Construct you control.
+	Oras, the Redeemer	Lifebound	Hero	7	4	1	RoV	Gain (4 Runes).  Each time you acquire a Hero from the center row this turn, gain (Honor) equal to its (Honor) value.
+	Orb of Nyx	Void	Construct	8	5	1	IH	Once per turn, gain (3 Power).  When you defeat a Monster in the center row, gain a Soul Gem.
+	Otherworldly Guide	Enlightened	Transformed Hero	2	3	2	DU	Draw two cards.
+	Oxipede	Monster		3	2	4	DU	Gain (2 Honor). Energize (2): Gain (2 Honor).
+	Oziah, Judge of Logos	Enlightened	Hero	9	5	1	RoV	While this is in the center row, you may acquire this without paying its cost if you have gained (7 Energy) or more this turn.  Defeat all Monsters in the center row without paying their costs.
+	Oziah the Peerless	Enlightened	Hero	6	3	1	CotG	Defeat a Monster that has (6 power) or less without paying its cost.
+	P.R.I.M.E.	Mechana	Hero	7	3	1	SoS	Acquire a Construct or gain (3 Rune). When you play a Mechana Construct, you may return this from your discard pile you your hand. (Cards played this turn do not go to your discard pile until the end of the turn.)
+	Pathwarden	Lifebound	Construct	6	3	2	Promo	Gain (2 Rune). You may spend (Rune) as though it was (Power) this turn.
+	Penumbral Edge	Void	Construct	6	3	1	SoS	Once per turn, gain (2 Power). Gain an additional (2 Power) if you control Umbral Edge.
+	Personal Wormhole	Mechana	Construct	4	4	2	SoS	Once per turn, when you play a Mechana Construct (including this one), you may banish a card in your hand or discard pile.
+	Phasefiend	Monster		2	1	3	DU	Gain (1 Honor). You may banish a card in your hand or discard pile.
+	Plunder Devil	Monster		5	5	3	DU	Gain (5 Honor). You may acquire a Hero or Construct with cost (3 Rune) or less without paying its cost. Energize (2): Instead, you may acquire a Hero or Construct with cost (6 Rune) or less without paying its cost.
+	Polaris Demon	Monster		5	5	2	SoS	Reward: Gain (5 Honor). Choose one: Destroy all even cost Constructs opponents control or destroy all odd cost Constructs opponents control.
+	Portabillet	Mechana	Construct	5	5	2	RoV	Once per turn, when you play a Mechana Construct (including this one), draw a card.  Energize (5): Once this turn, draw a card.
+	Pot of Gold	Lifebound	Construct	1	1	9	LTP	When you play this, draw a card. When you play a Leprechaun, gain (1 Honor).
+	Prodigal	Enlightened	Hero	1	1	3	SoS	Defeat a Monster with (Power) or less. (You do not have to pay (Power).)
+	Project Alpha	Mechana	Construct	7	7	1	RotF	Once per turn, you may acquire a Hero or Construct with (Rune) cost less than or equal to the number of Mechana Constructs you control.
+	Protean Sea Slug	Monster		6	5	1	RoV	Reward: Gain (5 Honor). Each opponent destroys all Constructs they control.
+	Prototype CH32	Mechana	Construct	3	3	2	RoV	Energize (1): Once this turn, when you acquire a Mechana Construct, you may put it directly into play.
+	Raging Ursine	Monster		3	3	3	RoV	Reward: Gain (3 Honor).  Energize (2): Gain (2 Runes).
+	Raj, Psionic Master	Enlightened	Hero	6	3	1	SoS	Banish a Hero in your hand. If you do, acquire a Hero with (Honor) up to two more than that of the banished card and put it into your hand. (Cards with no Honor value are considered to be worth (0 Honor).)
+	Rat King	Monster		6	4	2	RKTP	FATE: When this enters the center row, put a Giant Rat on every other card in the center row.  Reward: Gain (4 Honor) and defeat all the Gaint Rats in the center row.
+	Rat Queen	Monster		6	4	2	RQTP	FATE: When this enters the center row shuffle all other cards not named Giant Rat in the center row and return them face down.  Place a Giant Rat on each.  When a Giant Rat leaves the center row, turn the card underneath it face-up.  .  Reward: Gain (4 Honor) and defeat all Giant Rats in the center row.
+	Raven Siren	Lifebound	Hero	3	1	2	DU	Gain (1 Rune). Energize: You pay (1 Rune) less for each (Energy) you have gained this turn the next time you acquire a Hero this turn.
+	Ravenous Gorph	Monster		3	3	3	RotF	FATE: When this enters the center row, banish all cards adjacent to it.  Reward: Gain (3 Honor) You may banish a card that was adjacent to this.
+	Raving Prophet	Enlightened	Hero	3	1	1	Promo	Draw a card.  Name a card, then reveal the top card of the center deck. If that card is the named card, you may acquire or defeat it without paying its cost.
+	Reactor Monk		Soul Gem	0	0	2	IH	Gain (2 Rune). You pay (1 Rune) less the next time you acquire a Construct this turn. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Reactor Monk	Mechana	Hero	4	2	2	CotG	Gain (2 Rune). You pay (1 Rune) less the next time you acquire a Construct this turn.
+	Reactor Shrine	Mechana	Construct	8	8	1	RoV	Energize (2): Once this turn, gain (1 Honor) for each Mechana Construct you control.
+	Reality Sculptor	Enlightened	Hero	3	1	3	RoV	Copy the effect of a Hero played this turn with cost (3 Rune) or less.
+	Reclamax	Mechana	Construct	4	4	2	RotF	FATE: When this enters the center row, each player may choose a construct in their discard pile and put it into their hand.  You may discard Reclamax from play to acquire a Mechana Construct in the Void as though it were in the center row.
+	Recyclicrab	Mechana	Construct	3	3	2	IH	While this is in your discard pile, when you play a Mechana Construct, you may return this from your discard pile to your hand.
+	Replication Drone	Mechana	Construct	4	4	2	DU	You are considered to control an additional Mechana Construct.
+	Repurposer	Mechana	Construct	7	7	1	IH	Once per turn, when you play a Mechana Construct (including this one), you may return a Construct from your discard pile to your hand.
+	Riftwalkers Axe	Void		3	2	2	DU	Energize (2): Once this turn, gain (2 Power).
+	Righteous Templar	Enlightened	Hero	4	2	2	RoV	Defeat a Monster that costs (4 Power) or less without paying its cost.  Energize (3): Instead, defeat any Monster without paying its cost.
+	Ring of Life	Lifebound	Construct	4	2	1	Promo	Once per turn, if you have played a Lifebound Hero, gain (1 Rune).  When Ring of Life enters play, choose a faction. Your Heroes of that faction are also Lifebound Heroes.
+	Rise of the Cult	Monster	Event	0	0	0	SoS	Cultists and Fanatics have (+1 Power) and their rewards have (+1 Honor).  Event Trophy: Gain (+1 Honor).
+	Rocket Courier X-99	Mechana	Construct	4	4	2	CotG	Once per turn, when you acquire another Mechana Construct, you may put it directly into play.
+	Runic Honiskrot	Lifebound	Hero	3	1	2	RoV	Gain (2 Runes).  Energize (3): Gain (2 Power).
+	Runic Lycanthrope		Soul Gem	0	0	2	IH	Gain (2 Rune). If you have played another Lifebound Hero this turn, gain (2 Power). (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Runic Lycanthrope	Lifebound	Hero	3	1	2	CotG	Gain (2 Rune). If you have played another Lifebound Hero this turn, gain (2 Power).
+	Sabre, the Moonlit	Lifebound	Hero	6	3	1	IH	Gain (1 Rune). Gain (1 Honor). Gain (1 Power).  Draw a card.  Unite: Gain (1 Rune). Gain (1 Honor), Gain (1 Power).  Draw a card.
+	Sadranis, Dark Emissary	Void	Hero	7	4	1	RotF	Gain (3 Power). You may defeat a Monster in the Void as though it were in the center row. If you do, put it on the bottom of the center deck.
+	Samael Claus	Monster	Trophy	7	5	2	SCTP	Reward: Gain (5 Honor). Reveal cards from the center deck equal to the number of players in the game. Choose one card revealed this way for each player. Each player acquire or defeats the card chosen for them without paying its cost.  Ongoing Trophy: Gain (2 Power) When you play a Samael's Little Helper.
+	Samael the Fallen	Monster		8	8	1	RotF	Unbanishable. Reward: Gain (8 Honor). Place this face up in front of you. For the rest of the game, when you defeat a Monster in the center row or the Void, you may acquire it. Monsters in your deck are considered Heroes. When you play them, you gain their (Power).
+	Samael's Little Helper	Monster		1	1	10	SCTP	Reward: Gain (1 Honor). Choose a player and put this in that player's discard pile.  While in a player's deck, this is a Hero with, "Gain (1 Power) for each Samael's Little Helper you play or have played this turn (including this one)."
+	Samael's Trickster	Monster		3	1	4	CotG	Reward: Gain (1 Honor) and (1 Rune).
+	Scrabbling Squad	Mechana	Transformed Hero	2	3	2	DU	Gain (2 Rune) and (2 Power).
+	Scrap Flinger	Mechana	Hero	4	2	2	SoS	Gain (2 Power). You may destroy a Construct you control. If you do, gain an additional (2 Power).
+	Scrap Scrabbler	Mechana	Hero	2	1	2	DU	Energize (2): Transform this into Scrabbling Squad. (Ignore the rest of this card's effect). Gain (1 Rune) and (1 Power).
+	Sea Tyrant	Monster		5	5	3	CotG	Reward: Gain (5 Honor). If an opponent has more than one Construct, that player must destroy all but one Construct he controls.
+	Seer of the Forked Path		Soul Gem	0	0	2	IH	Draw a card. You may banish a card in the center row. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Seer of the Forked Path	Enlightened	Hero	2	1	3	CotG	Draw a card. You may banish a card in the center row.
+	Serpent Siren	Monster	Trophy	2	1	3	RoV	Reward: Gain (1 Honor).  Trophy: You may banish this to gain (1 Energy).
+	Serpentcall	Lifebound	Construct	7	4	1	RotF	Once per turn, gain (2 Rune). Once per turn, you may acquire a Hero in the Void as though it were in the center row.
+	Shade of the Black Watch		Soul Gem	0	0	2	IH	Gain (2 Power). You may banish a card in your hand or discard pile. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Shade of the Black Watch	Void	Hero	3	1	3	CotG	Gain (2 Power). You may banish a card in your hand or discard pile.
+	Shadow Star	Void	Construct	3	2	2	CotG	Once per turn, gain (1 Power).
+	Shadowcaster	Void	Hero	5	3	2	SoS	Draw a card. You may banish a card in your hand. If you do, draw an additional card. If the current event is Void, you may also banish a card is your discard pile.
+	Shardfinder Compass	Enlightened	Construct	3	1	1	DU	You may banish this to acquire all of the Treasure in the center row.
+	Shuffletron 2K13	Mechana	Construct	2	2	1	Promo	Once per turn, when you play a Mechana Construct (inlcuding this one), you may shuffle your discard pile into your deck. Whenever you would shuffle your deck, you may have an opponent shuffle your deck instead.
+	Skyrocket Drone	Mechana	Hero	1	1	3	RoV	Gain (1 Rune) and an additional (1 Rune) if you control a Construct.
+	Smoke Tyrant	Monster		7	4	1	DU	Gain (4 Honor). Banish the top seven cards of the center deck. Put all Treasures banished this way under this. Ongoing Trophy: Once per turn, gain (1 Energy) for reach Treasure under this.
+	Snake Shaman	Lifebound	Hero	2	1	2	SoS	Gain (1 Rune). If the current event is Lifebound, gain an additional (1 Rune). Once this turn, you may spend up to (4 Rune) to gain that much (Honor).
+	Snapdragon	Lifebound	Construct	5	2	2	CotG	Once per turn, gain (1 Rune). The First time you play a Lifebound Hero each turn, gain (1 Honor).
+	Socket Altar	Mechana	Construct	6	6	2	RotF	Once per turn, when you put a Mechana Construct into play (including this one), gain (2 Rune).
+	Sordid Asp	Monster		3	1	4	RotF	Reward: Gain (1 Honor), then steal (2 Honor) from an opponent with the most (Honor) if they have more than you.
+	Soul Assassin	Void	Hero	4	2	2	SoS	Gain (2 Power). The next time you defeat a Monster in the center row this turn, gain (2 Rune).
+	Soul Collector	Void	Construct	6	4	1	Promo	Once per turn, add a Soul counter to this if you've defeated a Monster in the center row.  Once per turn, gain (Power) equal to the number of Soul counters on this.
+	Soul Shaper	Void	Hero	2	1	2	IH	You may banish this or another card in your hand.  If you do, gain a Soul Gem.  If the current Event is Void, you may banish a card in your discard pile to gain a Soul Gem instead.
+	Souls Unbound	Monster	Event	0	0	0	IH	Monsters in the center row are Unbanishable.  Event Trophy: Discard a card.  If you do, gain a Soul Gem.
+	Spark Sprayer	Mechana	Construct	4	4	2	IH	Once per turn, you may destroy a Mechana Construct you control to gain (1 Power).  If the current event is Mechana, gain an additional (1 Power).
+	Spider Witch	Lifebound	Hero	3	2	3	IH	Gain (2 Honor).   Unite:  Gain a Soul Gem. (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+	Spike Vixen		Soul Gem	0	0	2	IH	Gain (1 Power). Draw a card. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Spike Vixen	Void	Hero	2	1	2	CotG	Gain (1 Power). Draw a card.
+	Spirit Merchant	Void	Hero	1	1	3	RoV	FATE: When this enters the center row, for each Treasure under this, each player may banish a card in their hand or discard pile.  Gain (1 Energy).  You may banish a card in your hand or discard pile.
+	Starcaller Leotan	Lifebound	Hero	6	3	1	RoV	Gain (4 Honor).  Energize: Gain an additional (1 Honor) for each (Energy) you have gained this turn.
+	Starchild	Lifebound	Hero	4	2	3	SoS	Gain (1 Rune) and (1 Honor). Draw a card.
+	Stone Circle Elder	Lifebound	Hero	5	3	2	IH	Acquire a Hero with cost (5 Runes) or less without paying its cost. Put it on top of your deck. If the current Event is Lifebound, draw a card.
+	Stone Circle	Lifebound	Construct	5	4	2	RotF	FATE: When this enters the center row, each player may acquire a Mystic.  Put it on top of their deck.  Once per turn, when you acquire a Hero, you may put it on top of your deck.
+	Synchronizer	Mechana	Construct	3	3	2	SoS	once per turn, when you play a Mechana Construct (including this one), gain (1 Rune).
+	Syril, Runic Alpha	Lifebound	Hero	6	2	1	SoS	Gain (3 Rune). Unite: Gain (3 Power). (Gain this effect once if you play or have played another Lifebound Hero this turn.)
+	Tablet of the Dreamer	Enlightened	Construct	5	3	1	RoV	Energize (4): Once this turn, acquire defeat any card in the center row without paying its cost.
+	Tablet of Time's Dawn	Enlightened	Construct	5	2	1	CotG	You may banish this Construct to take an additional turn after this one.
+	Tarik, the Trickster	Monster		6	5	1	SoS	Reward: Gain (5 Honor). You may choose a Hero in the center row and copy its effect.
+	Temple Guardian	Enlightened	Hero	5	4	2	IH	Defeat a Monster with (5 power) or less without paying its cost. If the current event is Enlightened, draw a card.
+	Temple Librarian	Enlightened	Hero	2	1	3	CotG	Discard a card. If you do, draw two cards.
+	Temporal Eye	Enlightened	Construct	3	1	3	RoV	When this enters play, draw a card.  You may banish this and another Temporal Eye you control to take an additional turn.
+	Terrus, Paragon of Strife	Monster		7	5	1	RoV	Reward: Gain (5 Honor).  Each opponent discards a random card from their hand. You may choose a card discarded this way and put it in your hand.
+	The All-Seeing Eye	Enlightened	Construct	6	2	1	CotG	Once per turn, you may draw a card.
+	The Grand Design	Mechana	Construct	6	6	2	CotG	Once per turn, gain (2 Rune). You may spend it only to acquire Mechana Constructs.
+	The Great Eclipse	Lifebound	Event	0	0	0	IH	When a player acquires a Lifebound card, that player may put it on top of his deck.  Event Trophy: Name a Hero.  That Hero is also Lifebound this turn.
+	The World Tree	Lifebound	Construct	7	4	1	IH	Once per turn, you may pay up to (5 Runes) to gain that much (Honor).  When you play a Lifebound Hero, gain (1 Rune).
+	Tome of Erabus	Void	Construct	4	2	2	RoV	Once per turn, gain (1 Energy).
+	Toric, Ascendant	Enlightened	Transformed Hero	6	5	1	DU	Acquire a Hero without paying its cost and put it into your hand.
+	Toric, Devoted Disciple	Enlightened	Hero	6	3	1	DU	Energize (4): Transform this into Toric, Ascendant. (Ignore the rest of this card's effect). Copy the effect of a Hero in the center row.
+	Tormented Soul	Monster		3	1	3	CotG	Reward: Gain (1 Honor). Draw a card.
+	Tower Askara	Enlightened	Hero	5	2	2	SoS	Draw three cards, then discard two cards or one Enlightened card.
+	Treasure Hunter	Void	Hero	2	1	3	RoV	Gain (2 Power).  You pay (1 Power) less the next time you defeat a Monster with Treasure under it this turn.
+	Treasures of the Study	Enlightened	Construct	5	3	1	SoS	Once per turn, you may discard two cards. If you do, Gain (3 Honor).
+	Trophy Hunter	Void	Hero	3	1	3	IH	Gain (2 Power).  You pay (1 Power) less the next time you defeat a Trophy Monster this turn.
+	Truth Seeker	Enlightened	Hero	4	2	2	RoV	Draw a card. You may banish a card in the center row. If the next card to enter the center row is a Treasure, acquire it.
+	Twisted Tyrant	Monster		6	6	2	RoV	Reward: Gain (6 Honor).  Energize (3): Draw three cards.
+	Twofold Askara	Enlightened	Hero	4	2	1	CotG	Copy the effect of a Hero played this turn.
+	Ulu, Askara Prince	Enlightened	Hero	6	3	1	RoV	Copy the effect of a Hero played this turn. This effect cannot be copied.  Energize (2): Copy the chosen effect an additional time.
+	Umbral Edge	Void	Construct	6	3	1	SoS	Once per turn, gain (2 Power). Gain an additional (2 Power) if you control Penumbral Edge.
+	Unchained Fates	Monster	Trophy	7	5	1	SoS	Reward: Gain (5 Honor).  Trophy: You may banish this to draw two cards.
+	Valiant Ascetic	Enlightened	Hero	2	1	2	DU	You may banish this to defeat a Monster with cost (5 Power) or less without paying its cost.
+	Vandal Soul	Monster		4	3	3	SoS	Reward: Gain (3 Honor). Each opponent destroys the lowest cost Construct they control.
+	Vault Lich	Monster		3	3	4	DU	FATE: When this enters the center row, banish each card in the center row with Treasure under it. Gain (3 Honor). You may banish a card in the center row with Treasure under it.
+	Vault Sphinx	Monster	Trophy	4	2	3	RoV	Reward: Gain (2 Honor).  Trophy: You may banish this to gain (2 Energy).
+	Vaultbreaker Wurm	Monster		5	4	3	RotF	Reward: Gain (4 Honor). Each opponent must put their highest cost Construct into their Discard pile. (They choose in case of a tie.)
+	Vedah, Sage of Swords	Enlightened	Hero	7	4	1	Promo	Reveal the top card of the center deck. Draw it or defeat it without paying its cost.
+	Veya, Handmaiden of Logos	Enlightened	Hero	7	4	1	DU	Choose one: Acquire a Hero with cost (6 Rune) or less without paying its cost, or defeat a Monster with cost (6 Power) or less without paying its cost. Energize (2): Instead, you may choose both.
+	Void Avenger	Void	Hero	5	3	2	IH	Gain (3 Power).  The next time you defeat a Monster in the center row this turn, gain a Soul Gem.
+	Void Initiate		Soul Gem	0	0	2	IH	Gain (1 Rune). You may banish a card in your hand or discard pile. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Void Initiate	Void	Hero	1	1	3	CotG	Gain (1 Rune). You may banish a card in your hand or discard pile.
+	Void Mesmer	Void	Hero	6	3	2	Promo	Gain (2 Power). The next time you defeat a Monster this turn, you may acquire a Hero of equal or lesser cost without paying its cost.
+	Void Militia	Void	Hero	1	1	3	SoS	Gain (1 Power). You may pay (1 Power) less the next time you defeat a Monster in the center row this turn.
+	Void Rising	Void	Event	0	0	0	SoS	Once per turn, when a player defeats a Monster in the center row, that player gains (1 Honor).  Event Trophy: Banish a card in your hand or discard pile.
+	Voidfeeder	Void	Construct	5	3	2	RoV	Once per turn, gain (1 Power).  Energize (2): Once this turn, you may banish a card in your hand or discard pile.
+	Voidsworn Champion	Void	Transformed Hero	2	3	2	DU	Gain (4 Power).
+	Voidsworn Warrior	Void	Hero	2	1	2	DU	Energize (2): Transform this into Voidsworn Champion. (Ignore the rest of this card's effect). Gain (1 Power).
+	Voidthirster	Void	Construct	5	3	2	CotG	Once per turn, gain (1 Rune). The first time you defeat a Monster in the center row each turn, gain (1 Honor).
+	Vortex	Monster		6	4	1	Promo	Reward: Gain (4 Honor). Flip this onto the center row from a height of at least one foot. Once it lands, choose a card it touches. You may acquire or defeat that card.
+	Wandering Askara	Enlightened	Hero	3	1	3	IH	Draw a card, then you may banish a card in the center row.  If you have played another Wandering Askara this turn, you may banish both cards to take another turn after this one.
+	Watchmaker's Altar	Mechana	Construct	5	5	2	CotG	Once per turn, gain (1 Rune). You may spend it only to acquire Mechana Constructs.
+	Weapon 303V	Mechana	Construct	8	8	1	SoS	Once per turn, when you play a Mechana Construct (including this one), gain (3 Power).
+	Webclaw	Monster		4	3	2	DU	Gain (3 Honor). Each opponent with three or more Constructs in play destroys a Construct they control. Energize (3): Instead, each opponent destroys a Construct they control.
+	Wildcall Staff	Lifebound	Construct	5	3	2	RoV	Once per turn, you pay (2 Runes) less to acquire a card with Treasure under it.
+	Wind Tyrant	Monster		5	3	3	CotG	Reward: Gain (3 honor) and (3 Rune).
+	Wolf Acolyte	Lifebound	Hero	1	1	3	IH	Gain (1 Rune). Unite: Draw a card
+	Wolf Shaman		Soul Gem	0	0	2	IH	Gain (1 Rune). Draw a card. (This turn, you may banish this to gain its effect.  If you don't, banish this at the end of the turn.)
+	Wolf Shaman	Lifebound	Hero	3	1	3	CotG	Gain (1 Rune). Draw a card.
+	Xeron, Duke of Lies	Monster		6	3	1	CotG	Reward: Gain (3 Honor). Take a card at random from each opponent's hand and add that card to your hand.
+	Yggdrasil Staff	Lifebound	Construct	4	2	2	CotG	Once per turn, gain (1 Power). Once per turn, you may spend (4 Rune) to gain (3 Honor).
+	Yolocryx the Guardian	Mechana	Transformed Hero	8	8	1	DU	Gain (5 Power) and an additional (1 Power) for each Mechana Construct you control. When you play a Mechana Construct, you may return this from your discard pile to your hand.
+	Yolothian Monolith	Mechana	Construct	8	8	1	DU	Energize (4): Transform this into Yolocryx, the Guardian and put it into your hand.
+	Zeta Arsenal	Mechana	Construct	6	6	2	RoV	Energize (3): Once this turn, gain (1 Power) for each Mechana Construct you control.
+	Zombie Apprentice			0	0	0	KSSD	(+1 Rune).
+	Zombie Militia			0	0	0	KSSD	(+1 Power).

@@ -1,0 +1,5 @@
+Mystic			3	1	0		(+2 Rune).
+Cultist	Monster		2	1	0		Reward: Gain (1 Honor)
+Militia			0	0	0		(+1 Power).
+Apprentice			0	0	0		(+1 Rune).
+Heavy Infantry			2	1	0		(+2 Power).
